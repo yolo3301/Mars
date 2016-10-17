@@ -12,3 +12,4 @@
 + 318 (bits, pruning)
 + 119 (implementation)
 + 9 (interesting idea)
++ 337 (tree, DP idea)
