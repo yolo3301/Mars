@@ -1,10 +1,14 @@
 package cs;
 
+import java.util.Arrays;
+
 public class Attack {
 
 	public static void main(String[] args) {
-		Leet377 l = new Leet377();
-		System.out.println(l.combinationSum4(new int[] {1, 50}, 200));
+		Leet241 l = new Leet241();
+		// System.out.println(l.diffWaysToCompute("2*3-4*5"));
+		System.out.println(Arrays.asList("2*3-5+6".split("(?<=\\D)(?=\\d)|(?<=\\d)(?=\\D)")));
+		System.out.println(Arrays.asList("2*3-5+6".split("[1-9]")));
 	}
 
 }
