@@ -20,3 +20,4 @@
 + 46 (BT)
 + 423 (interesting idea)
 + 62 (math idea)
++ 53 (the most basic DP)
