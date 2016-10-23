@@ -21,3 +21,4 @@
 + 423 (interesting idea)
 + 62 (math idea)
 + 53 (the most basic DP)
++ 334 (array, interesting idea)
