@@ -25,3 +25,4 @@
 + 386 (interesting idea, didn't think in the right way)
 + 367 (int overflow trick)
 + 219 (don't over complicate problem)
++ 300 (O(nlogn) solution is tricky)
