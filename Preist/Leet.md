@@ -2,7 +2,7 @@
 
 + 406
 + 260
-+ 382 (sampling)
++ 382/398 (sampling)
 + 347 (use of heap & comparator)
 + 198 (simple DP, easy)
 + 357 (hard to think in the right way)
@@ -29,3 +29,4 @@
 + 341 (iterator and stack)
 + 264 (ugly num 2)
 + 313 (super ugly, need to know the way to boost performance)
++ 399 (complexity?)
