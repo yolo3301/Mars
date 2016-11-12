@@ -41,8 +41,8 @@ public class Solution {
         int start = 0, maxCount = 0, res = 0;
         for (int end = 0; end < s.length(); end++) {
             maxCount = Math.max(maxCount, ++count[s.charAt(end) - 'A']);
-            while (end - start + 1 - maxCount > k) {
-                count[s.charAt(start--) - 'A']--;
+            if (end - start + 1 - maxCount > k) {
+                count[s.charAt(start++) - 'A']--;
             }
             res = Math.max(res, end - start + 1);
         }
