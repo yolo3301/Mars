@@ -51,3 +51,4 @@
 + 436 (tree map)
 + 396
 + **424** (moving window)
++ *147* (seems there is a better solution)
