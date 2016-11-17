@@ -56,3 +56,4 @@
 + *131* (DP)
 + 207 (DFS)
 + 385 (stack)
++ 187 (use idea of bits operation)
