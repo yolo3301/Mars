@@ -60,3 +60,4 @@
 + 397 (bit usage)
 + *209* (moving window)
 + **310** (Tree, Graph)
++ *227* (seems a better solution)
