@@ -81,3 +81,4 @@
 + 464 (DP + memo, play game)
 + 220 (bucket sort idea)
 + 130 (avoid stack overflow)
++ 307 (segment tree)
