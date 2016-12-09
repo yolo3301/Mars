@@ -82,3 +82,4 @@
 + 220 (bucket sort idea)
 + 130 (avoid stack overflow)
 + 307 (segment tree)
++ 287 (interesting idea)
