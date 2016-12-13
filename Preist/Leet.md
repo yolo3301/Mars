@@ -88,3 +88,4 @@
 + 128 (interesting idea)
 + 42 (trapping water)
 + 407 (trapping water 2D)
++ 117 (populating next pointer in a tree)
