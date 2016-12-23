@@ -16,7 +16,7 @@
 + 241 (coding complex, better solution???)
 + 394 (use of stack, level of complexity)
 + 205 (easy, but easy to forget double check)
-+ 309 (DP, stock)
++ 309/123 (DP, stock)
 + 46 (BT)
 + 423 (interesting idea)
 + 62 (math idea)
