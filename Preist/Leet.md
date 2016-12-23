@@ -84,7 +84,7 @@
 + 307 (segment tree)
 + 287 (interesting idea)
 + 312 (DP, burst ballons)
-+ 380 (statistics)
++ 380/381 (statistics, getRandom)
 + 128 (interesting idea)
 + 42 (trapping water)
 + 407 (trapping water 2D)
