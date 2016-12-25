@@ -106,3 +106,4 @@
 + 57 (corner cases)
 + 45 (jump game)
 + *85* (histogram problem)
++ 224 (calculator faster solution)
