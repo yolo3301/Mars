@@ -53,7 +53,7 @@
 + **424** (moving window)
 + *147* (seems there is a better solution)
 + 414 (seems simple but not that simple)
-+ *131* (DP)
++ *131*/*132* (DP)
 + 207 (DFS)
 + 385 (stack)
 + 187 (use idea of bits operation)
@@ -114,3 +114,4 @@
 + 321
 + 76 (there is more efficient way)
 + 391 (geometry problem)
++ 10 (the DP way)
