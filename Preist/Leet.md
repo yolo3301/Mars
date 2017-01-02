@@ -116,3 +116,4 @@
 + 391 (geometry problem)
 + 10 (the DP way)
 + *295* (try shorter version)
++ 32 (stack, corner cases, there is a DP solution too)
