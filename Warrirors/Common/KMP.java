@@ -3,9 +3,9 @@
 public class KMP {
     public int[] preProcess(char[] pattern) {
         int len = pattern.length;
+        int i = 0, j = -1;
         int[] b = new int[len+1];
-        b[0] = -1;
-        int i = 0, j = 1;
+        b[i] = j;
 
         while (i < len) {
             while (j >= 0 && pattern[i] != pattern[j]) {
