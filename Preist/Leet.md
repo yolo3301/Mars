@@ -114,7 +114,7 @@
 + 321
 + 76 (there is more efficient way)
 + 391 (geometry problem)
-+ 10 (the DP way)
++ 10/44 (the DP way)
 + *295* (try shorter version)
 + 32 (stack, corner cases, there is a DP solution too)
 + 446 (how to arrange for loop properly)
@@ -124,3 +124,4 @@
 + **440** (very subtle, it's a kind of recursive without recursive code)
 + 273 (corner cases)
 + **4** (find Kth in 2 sorted array)
++ 460 (complicated data structure)
