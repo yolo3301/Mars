@@ -3,7 +3,7 @@
 + 406
 + 260
 + 382/398 (sampling)
-+ 347 (use of heap & comparator)
++ 347 (use of heap & comparator) <<<
 + 198 (simple DP, easy)
 + 357 (hard to think in the right way)
 + 268 (good practice)
