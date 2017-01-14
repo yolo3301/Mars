@@ -12,6 +12,7 @@
 
 # Greedy
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
++ [L452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
