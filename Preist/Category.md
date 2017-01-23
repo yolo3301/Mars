@@ -1,5 +1,6 @@
 # Bit operation
 + [L260](https://leetcode.com/problems/single-number-iii/) -- ^ and divide
++ [L477](https://leetcode.com/problems/total-hamming-distance/)
 
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
