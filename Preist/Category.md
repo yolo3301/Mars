@@ -9,6 +9,7 @@
 + [L357](https://leetcode.com/problems/count-numbers-with-unique-digits/) -- tricky, M(j)=M(j-1) * available_numbers
 + [L416](https://leetcode.com/problems/partition-equal-subset-sum/) -- M(i, j)=M(i-1,j)||M(i-1, j-V[i]), where i is ith num & j is value
 + [L337](https://leetcode.com/problems/house-robber-iii/) -- DP + Tree
++ [L474](https://leetcode.com/problems/ones-and-zeroes/) -- M(i, j) = max(M(i-a, j-b)+1, M(i, j))
 
 # Greedy
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
