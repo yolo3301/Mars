@@ -44,3 +44,6 @@
 
 # Heap
 + [L480](https://leetcode.com/problems/sliding-window-median/)
+
+# Math
++ [L492](https://leetcode.com/problems/construct-the-rectangle/)
