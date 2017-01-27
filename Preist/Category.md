@@ -47,3 +47,4 @@
 
 # Math
 + [L492](https://leetcode.com/problems/construct-the-rectangle/)
++ [L483](https://leetcode.com/problems/smallest-good-base/) -- binary search
