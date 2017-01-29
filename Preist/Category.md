@@ -46,6 +46,9 @@
 # Heap
 + [L480](https://leetcode.com/problems/sliding-window-median/)
 
+# Trie
++ [L472](https://leetcode.com/problems/concatenated-words/) -- similar to word break
+
 # Math
 + [L492](https://leetcode.com/problems/construct-the-rectangle/)
 + [L483](https://leetcode.com/problems/smallest-good-base/) -- binary search
