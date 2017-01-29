@@ -18,3 +18,49 @@ public class Solution {
         }
     }
 }
+
+public class Solution {
+    public List<List<Integer>> findSubsequences(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (nums.length == 0) return res;
+
+        // Record the index of last appreance
+        Map<Integer, Integer> index = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            index.put(nums[i], i);
+        }
+
+        List<List<Integer>>[] memo = new ArrayList[nums.length];
+
+        for (int i = 1; i < nums.length; i++) {
+            memo[i] = new ArrayList<>();
+            Set<Integer> met = new HashSet<>();
+            for (int j = i - 1; j >= 0; j--) {
+                // Use hashset to remove duplicates
+                if (met.contains(nums[j])) continue;
+                if (nums[j] <= nums[i]) {
+                    List<Integer> two = new ArrayList<>();
+                    two.add(nums[j]);
+                    two.add(nums[i]);
+                    memo[i].add(two);
+
+                    if (memo[j] != null) {
+                        for (List<Integer> prev : memo[j]) {
+                            List<Integer> curr = new ArrayList<>(prev);
+                            curr.add(nums[i]);
+                            memo[i].add(curr);
+                        }
+                    }
+                }
+                met.add(nums[j]);
+            }
+
+            // Only add the sequence to the final result if this is the last appreance
+            if (i == index.get(nums[i])) {
+                res.addAll(memo[i]);
+            }
+        }
+
+        return res;
+    }
+}
