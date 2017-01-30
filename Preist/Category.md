@@ -11,6 +11,9 @@
 + [L416](https://leetcode.com/problems/partition-equal-subset-sum/) -- M(i, j)=M(i-1,j)||M(i-1, j-V[i]), where i is ith num & j is value
 + [L337](https://leetcode.com/problems/house-robber-iii/) -- DP + Tree
 + [L474](https://leetcode.com/problems/ones-and-zeroes/) -- M(i, j) = max(M(i-a, j-b)+1, M(i, j))
++ [L188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) -- M(i, j) = max(M(i, j-1), P[j] + max(M(i-1, k) - P[k]))
++ [L309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) -- sell or no sell on a day
++ [L53](https://leetcode.com/problems/maximum-subarray/)
 
 # Greedy
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
@@ -20,6 +23,7 @@
 # Backtracking
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
 + [L488](https://leetcode.com/problems/zuma-game/)
++ [L46](https://leetcode.com/problems/permutations/) -- list permutations, all distinct numbers
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
@@ -28,6 +32,7 @@
 # Array
 + [L268](https://leetcode.com/problems/missing-number/) -- set negative to find, careful with corner case (=0)
 + [L119](https://leetcode.com/problems/pascals-triangle-ii/) -- save space
++ [L334](https://leetcode.com/problems/increasing-triplet-subsequence/) -- keep record of 2 smallest numbers
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
@@ -52,3 +57,8 @@
 # Math
 + [L492](https://leetcode.com/problems/construct-the-rectangle/)
 + [L483](https://leetcode.com/problems/smallest-good-base/) -- binary search
++ [L62](https://leetcode.com/problems/unique-paths/)
+
+# Pure Interesting
++ [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
++ [L386](https://leetcode.com/problems/lexicographical-numbers/) -- do it in order

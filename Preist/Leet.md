@@ -15,7 +15,7 @@
 + 337 (tree, DP idea)
 + 241 (coding complex, better solution???)
 + 394 (use of stack, level of complexity)
-+ 205 (easy, but easy to forget double check) <<<
++ 205 (easy, but easy to forget double check)
 + 309/123/188 (DP, stock)
 + 46 (BT)
 + 423 (interesting idea)
@@ -23,7 +23,7 @@
 + 53 (the most basic DP)
 + 334 (array, interesting idea)
 + 386 (interesting idea, didn't think in the right way)
-+ 367 (int overflow trick)
++ 367 (int overflow trick) <<<
 + 219 (don't over complicate problem)
 + 300/354 (O(nlogn) solution is tricky)
 + 341 (iterator and stack)
