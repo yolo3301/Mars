@@ -23,13 +23,13 @@
 + 53 (the most basic DP)
 + 334 (array, interesting idea)
 + 386 (interesting idea, didn't think in the right way)
-+ 367 (int overflow trick) <<<
++ 367 (int overflow trick)
 + 219 (don't over complicate problem)
 + 300/354 (O(nlogn) solution is tricky)
 + 341 (iterator and stack)
 + 264 (ugly num 2)
 + 313 (super ugly, need to know the way to boost performance)
-+ 399 (complexity?)
++ 399 (complexity?) <<<
 + 11 (interesting idea)
 + 437 (not sure if the best solution)
 + 413 (less important, but subtle)

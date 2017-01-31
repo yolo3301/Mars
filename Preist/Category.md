@@ -33,6 +33,14 @@
 + [L268](https://leetcode.com/problems/missing-number/) -- set negative to find, careful with corner case (=0)
 + [L119](https://leetcode.com/problems/pascals-triangle-ii/) -- save space
 + [L334](https://leetcode.com/problems/increasing-triplet-subsequence/) -- keep record of 2 smallest numbers
++ [L219](https://leetcode.com/problems/contains-duplicate-ii/) -- keep a set of K-sized window
++ [L300](https://leetcode.com/problems/longest-increasing-subsequence/) -- LIS problem
++ [L354](https://leetcode.com/problems/russian-doll-envelopes/) -- transform of LIS problem
++ [L264](https://leetcode.com/problems/ugly-number-ii/) -- ugly number 2
++ [L313](https://leetcode.com/problems/super-ugly-number/) -- super ugly number
+
+# String
++ [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
@@ -41,6 +49,7 @@
 
 # Stack
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
++ [L341](https://leetcode.com/problems/flatten-nested-list-iterator/) -- stack to push iterators
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
