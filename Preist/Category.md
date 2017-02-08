@@ -50,6 +50,7 @@
 # Stack
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
 + [L341](https://leetcode.com/problems/flatten-nested-list-iterator/) -- stack to push iterators
++ [L496](https://leetcode.com/problems/next-greater-element-i/)
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
