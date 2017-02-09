@@ -39,6 +39,9 @@
 + [L264](https://leetcode.com/problems/ugly-number-ii/) -- ugly number 2
 + [L313](https://leetcode.com/problems/super-ugly-number/) -- super ugly number
 
+# Matrix
++ [L498](https://leetcode.com/problems/diagonal-traverse/)
+
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
 
