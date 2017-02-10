@@ -49,6 +49,7 @@
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
 + [L145](https://leetcode.com/problems/binary-tree-postorder-traversal/) -- post order
 + [L337](https://leetcode.com/problems/house-robber-iii/) -- DP + Tree
++ [L501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) -- double traversal
 
 # Stack
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
