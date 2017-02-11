@@ -19,6 +19,7 @@
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
 + [L452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 + [L475](https://leetcode.com/problems/heaters/)
++ [L502](https://leetcode.com/problems/ipo/) -- two heap
 
 # Backtracking
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
