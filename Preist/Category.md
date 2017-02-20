@@ -46,6 +46,7 @@
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
++ [L459](https://leetcode.com/problems/repeated-substring-pattern) -- variant of KMP
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
