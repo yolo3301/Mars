@@ -14,6 +14,7 @@
 + [L188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) -- M(i, j) = max(M(i, j-1), P[j] + max(M(i-1, k) - P[k]))
 + [L309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) -- sell or no sell on a day
 + [L53](https://leetcode.com/problems/maximum-subarray/)
++ [L516](https://leetcode.com/problems/longest-palindromic-subsequence)
 
 # Greedy
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
