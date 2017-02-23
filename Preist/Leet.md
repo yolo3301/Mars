@@ -1,14 +1,14 @@
 ## Numbers to revise
 
-+ 406
-+ 260
-+ 382/398 (sampling)
-+ 347 (use of heap & comparator)
-+ 198 (simple DP, easy)
-+ 357 (hard to think in the right way)
-+ 268 (good practice)
-+ 416 (DP)
-+ 94, 145 (Tree traversal)
++ ~~406~~
++ ~~260~~
++ ~~382/398 (sampling)~~
++ ~~347 (use of heap & comparator)~~
++ ~~198 (simple DP, easy)~~
++ ~~357 (hard to think in the right way)~~
++ ~~268 (good practice)~~
++ ~~416 (DP)~~
++ ~~94, 145 (Tree traversal)~~
 + 318 (bits, pruning)
 + 119 (implementation)
 + 9 (interesting idea)
