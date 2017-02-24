@@ -1,6 +1,7 @@
 # Bit operation
 + [L260](https://leetcode.com/problems/single-number-iii/) -- ^ and divide
 + [L477](https://leetcode.com/problems/total-hamming-distance/)
++ [L318](https://leetcode.com/problems/maximum-product-of-word-lengths/) -- use bit as hash set
 
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
