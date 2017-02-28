@@ -11,7 +11,7 @@
 + ~~94, 145 (Tree traversal)~~
 + ~~318 (bits, pruning)~~
 + ~~119 (implementation)~~
-+ 9 (interesting idea)
++ ~~9 (interesting idea)~~
 + 337 (tree, DP idea)
 + 241 (coding complex, better solution???)
 + 394 (use of stack, level of complexity)
@@ -114,7 +114,7 @@
 + 321
 + 76 (there is more efficient way)
 + 391 (geometry problem)
-+ 10/44 (the DP way)
++ ~~10~~/44 (the DP way)
 + *295* (try shorter version)
 + 32 (stack, corner cases, there is a DP solution too)
 + 446 (how to arrange for loop properly)
