@@ -30,7 +30,7 @@
 + ~~264 (ugly num 2)~~
 + ~~313 (super ugly, need to know the way to boost performance)~~
 + ~~399 (complexity?)~~
-+ 11 (interesting idea)
++ ~~11 (interesting idea)~~
 + 437 (not sure if the best solution)
 + 413 (less important, but subtle)
 + 39 (wonder if it's the best solution)
