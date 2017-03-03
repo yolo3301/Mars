@@ -17,6 +17,9 @@
 + [L53](https://leetcode.com/problems/maximum-subarray/)
 + [L516](https://leetcode.com/problems/longest-palindromic-subsequence)
 
+# Sub-structure]
++ [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
+
 # Greedy
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
 + [L452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
@@ -59,7 +62,7 @@
 + [L513](https://leetcode.com/problems/find-bottom-left-tree-value/)
 + [L437](https://leetcode.com/problems/path-sum-iii/) -- 2-sum like idea, count prefix sum
 
-Graph
+# Graph
 + [L399](https://leetcode.com/problems/evaluate-division/) -- construct map and search
 
 # Stack
