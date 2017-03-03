@@ -41,6 +41,7 @@
 + [L354](https://leetcode.com/problems/russian-doll-envelopes/) -- transform of LIS problem
 + [L264](https://leetcode.com/problems/ugly-number-ii/) -- ugly number 2
 + [L313](https://leetcode.com/problems/super-ugly-number/) -- super ugly number
++ [L413](https://leetcode.com/problems/arithmetic-slices/) -- one pass, accumulate on the go
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
