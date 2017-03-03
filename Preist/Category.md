@@ -17,6 +17,7 @@
 + [L309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) -- sell or no sell on a day
 + [L53](https://leetcode.com/problems/maximum-subarray/)
 + [L516](https://leetcode.com/problems/longest-palindromic-subsequence)
++ [L279](https://leetcode.com/problems/perfect-squares/) -- calculate squares first then use it later
 
 # Sub-structure]
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
