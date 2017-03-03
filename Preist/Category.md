@@ -2,6 +2,7 @@
 + [L260](https://leetcode.com/problems/single-number-iii/) -- ^ and divide
 + [L477](https://leetcode.com/problems/total-hamming-distance/)
 + [L318](https://leetcode.com/problems/maximum-product-of-word-lengths/) -- use bit as hash set
++ [L421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) -- narrowing down the candidates by looking MSB each round
 
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
