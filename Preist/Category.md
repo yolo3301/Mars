@@ -74,6 +74,7 @@
 + [L341](https://leetcode.com/problems/flatten-nested-list-iterator/) -- stack to push iterators
 + [L496](https://leetcode.com/problems/next-greater-element-i/)
 + [L503](https://leetcode.com/problems/next-greater-element-ii/) -- pre-process
++ [L388](https://leetcode.com/problems/longest-absolute-file-path/)
 
 # Map
 + [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)

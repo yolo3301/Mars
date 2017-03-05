@@ -20,3 +20,4 @@
 + 395 -- devide and conquer
 + 376 -- dp
 + 274 -- reversed index count
++ *388* -- got right with slight worse performance
