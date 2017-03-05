@@ -75,6 +75,9 @@
 + [L496](https://leetcode.com/problems/next-greater-element-i/)
 + [L503](https://leetcode.com/problems/next-greater-element-ii/) -- pre-process
 
+# Map
++ [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)
+
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
 + [L493](https://leetcode.com/problems/reverse-pairs/) -- do it along with merge sort

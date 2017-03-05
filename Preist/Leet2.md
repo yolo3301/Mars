@@ -19,3 +19,4 @@
 + *331*
 + 395 -- devide and conquer
 + 376 -- dp
++ 274 -- reversed index count
