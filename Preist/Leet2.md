@@ -21,3 +21,4 @@
 + 376 -- dp
 + 274 -- reversed index count
 + *388* -- got right with slight worse performance
++ *81* -- got right, but might as well practice again

@@ -7,6 +7,9 @@
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
 
+# Search
++ [L81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) -- binary search in rotated array
+
 # Dynamic Programming
 + [L198](https://leetcode.com/problems/house-robber/) -- one dimension M(j)=max(M(j-1), M(j-2)+V[j])
 + [L357](https://leetcode.com/problems/count-numbers-with-unique-digits/) -- tricky, M(j)=M(j-1) * available_numbers
@@ -21,7 +24,7 @@
 + [L376](https://leetcode.com/problems/wiggle-subsequence/) -- carry value along the way, O(n)
 + [L375](https://leetcode.com/problems/guess-number-higher-or-lower-ii) -- like dropping egg problem
 
-# Sub-structure]
+# Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
 
 # Greedy
