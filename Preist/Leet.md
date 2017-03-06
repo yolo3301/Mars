@@ -43,7 +43,7 @@
 + ~~274 (count)~~
 + ~~*388* (level of complexity)~~
 + ~~*441* (math)~~
-+ 375 (DP, like dropping egg)
++ ~~375 (DP, like dropping egg)~~
 + 81 (binary search)
 + **201** (bit operation)
 + 368 (DP)
