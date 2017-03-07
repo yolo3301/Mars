@@ -106,6 +106,7 @@
 + [L483](https://leetcode.com/problems/smallest-good-base/) -- binary search
 + [L62](https://leetcode.com/problems/unique-paths/)
 + [L441](https://leetcode.com/problems/arranging-coins/)
++ [L396](https://leetcode.com/problems/rotate-function)
 
 # Pure Interesting
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
