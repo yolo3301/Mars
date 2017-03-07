@@ -23,3 +23,4 @@
 + *388* -- got right with slight worse performance
 + *81* -- got right, but might as well practice again
 + 201 -- bit operation, consider the essense of AND
++ **424** -- moving window, make code short is subtle
