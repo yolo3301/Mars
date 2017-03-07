@@ -83,8 +83,9 @@
 + [L503](https://leetcode.com/problems/next-greater-element-ii/) -- pre-process
 + [L388](https://leetcode.com/problems/longest-absolute-file-path/)
 
-# Map
+# HashMap/TreeMap
 + [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)
++ [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
