@@ -24,6 +24,7 @@
 + [L279](https://leetcode.com/problems/perfect-squares/) -- calculate squares first then use it later
 + [L376](https://leetcode.com/problems/wiggle-subsequence/) -- carry value along the way, O(n)
 + [L375](https://leetcode.com/problems/guess-number-higher-or-lower-ii) -- like dropping egg problem
++ [L368](https://leetcode.com/problems/largest-divisible-subset/) -- sort first
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
