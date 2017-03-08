@@ -57,7 +57,7 @@
 + ~~207 (DFS)~~
 + ~~385 (stack)~~
 + ~~187 (use idea of bits operation)~~
-+ 397 (bit usage)
++ ~~397 (bit usage)~~
 + *209* (moving window)
 + **310** (Tree, Graph)
 + *227* (seems a better solution)

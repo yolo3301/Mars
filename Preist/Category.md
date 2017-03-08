@@ -5,6 +5,7 @@
 + [L421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) -- narrowing down the candidates by looking MSB each round
 + [L201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) -- consider the essense of AND operation
 + [L187](https://leetcode.com/problems/repeated-dna-sequences/) -- application of bit
++ [L397](https://leetcode.com/problems/integer-replacement) -- 3 is a special case
 
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
