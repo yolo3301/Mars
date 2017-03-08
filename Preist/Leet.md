@@ -51,7 +51,7 @@
 + ~~436 (tree map)~~
 + ~~396~~
 + ~~**424** (moving window)~~
-+ *147* (seems there is a better solution)
++ ~~*147* (seems there is a better solution)~~
 + 414 (seems simple but not that simple)
 + *131*/*132* (DP)
 + 207 (DFS)
