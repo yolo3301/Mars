@@ -54,6 +54,7 @@
 + [L264](https://leetcode.com/problems/ugly-number-ii/) -- ugly number 2
 + [L313](https://leetcode.com/problems/super-ugly-number/) -- super ugly number
 + [L413](https://leetcode.com/problems/arithmetic-slices/) -- one pass, accumulate on the go
++ [L414](https://leetcode.com/problems/third-maximum-number) -- promote numbers, careful corner case
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
