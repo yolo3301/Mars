@@ -53,7 +53,7 @@
 + ~~**424** (moving window)~~
 + ~~*147* (seems there is a better solution)~~
 + ~~414 (seems simple but not that simple)~~
-+ *131*/*132* (DP)
++ ~~*131*/*132* (DP)~~
 + 207 (DFS)
 + 385 (stack)
 + 187 (use idea of bits operation)

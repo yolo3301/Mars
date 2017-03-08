@@ -25,3 +25,4 @@
 + 201 -- bit operation, consider the essense of AND
 + **424** -- moving window, make code short is subtle
 + 414
++ *131* -- got right, but worth practicing

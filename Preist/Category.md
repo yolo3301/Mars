@@ -25,6 +25,7 @@
 + [L376](https://leetcode.com/problems/wiggle-subsequence/) -- carry value along the way, O(n)
 + [L375](https://leetcode.com/problems/guess-number-higher-or-lower-ii) -- like dropping egg problem
 + [L368](https://leetcode.com/problems/largest-divisible-subset/) -- sort first
++ [L131](https://leetcode.com/problems/palindrome-partitioning) -- M(i, j) = s[i] == s[j] && M(i+1, j-1)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
