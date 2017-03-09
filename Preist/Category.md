@@ -84,13 +84,14 @@
 + [L207](https://leetcode.com/problems/course-schedule/) -- application of DFS, loop detection
 + [L310](https://leetcode.com/problems/minimum-height-trees) -- find furthest nodes and choose middle ones
 
-# Stack
+# Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
 + [L341](https://leetcode.com/problems/flatten-nested-list-iterator/) -- stack to push iterators
 + [L496](https://leetcode.com/problems/next-greater-element-i/)
 + [L503](https://leetcode.com/problems/next-greater-element-ii/) -- pre-process
 + [L388](https://leetcode.com/problems/longest-absolute-file-path/)
 + [L385](https://leetcode.com/problems/mini-parser) -- parse char by char
++ [L227](https://leetcode.com/problems/basic-calculator-ii) -- use deque will be easier
 
 # HashMap/TreeMap
 + [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)
