@@ -43,6 +43,7 @@
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
 + [L488](https://leetcode.com/problems/zuma-game/)
 + [L46](https://leetcode.com/problems/permutations/) -- list permutations, all distinct numbers
++ [L306](https://leetcode.com/problems/additive-number/) -- can improve performance by cutting off some cases
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
