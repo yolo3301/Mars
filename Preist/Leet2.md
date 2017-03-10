@@ -31,3 +31,5 @@
 + *397* -- weird
 + *310* -- know the idea but need to do it again with bfs to avoid overflow
 + 332
++ 229 -- need to memorize the algorithm
++ 50

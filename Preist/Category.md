@@ -60,6 +60,7 @@
 + [L413](https://leetcode.com/problems/arithmetic-slices/) -- one pass, accumulate on the go
 + [L414](https://leetcode.com/problems/third-maximum-number) -- promote numbers, careful corner case
 + [L209](https://leetcode.com/problems/minimum-size-subarray-sum) -- moving window
++ [L229](https://leetcode.com/problems/majority-element-ii) -- majority problem
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
@@ -119,6 +120,7 @@
 + [L62](https://leetcode.com/problems/unique-paths/)
 + [L441](https://leetcode.com/problems/arranging-coins/)
 + [L396](https://leetcode.com/problems/rotate-function)
++ [L50](https://leetcode.com/problems/powx-n)
 
 # Pure Interesting
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
