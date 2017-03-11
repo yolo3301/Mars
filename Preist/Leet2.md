@@ -33,3 +33,4 @@
 + 332
 + 229 -- need to memorize the algorithm
 + 50
++ **222** -- consider the heights of the sub trees
