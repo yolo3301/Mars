@@ -64,7 +64,7 @@
 + ~~139 (memo)~~
 + ~~332 (DFS)~~
 + ~~229 (majority)~~
-+ ~~50~~/69 (pow/sqrt do it without overflow)
++ ~~50~~/~~69~~ (pow/sqrt do it without overflow)
 + ~~306 (BigInteger)~~
 + 222 (complete tree)
 + 60 (complexity)

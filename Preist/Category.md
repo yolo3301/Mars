@@ -122,6 +122,7 @@
 + [L441](https://leetcode.com/problems/arranging-coins/)
 + [L396](https://leetcode.com/problems/rotate-function)
 + [L50](https://leetcode.com/problems/powx-n)
++ [L69](https://leetcode.com/problems/sqrtx)
 
 # Pure Interesting
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
