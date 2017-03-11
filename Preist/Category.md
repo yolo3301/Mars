@@ -32,6 +32,7 @@
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
++ [L60](https://leetcode.com/problems/permutation-sequence) -- complexity, need to count the number correctly
 
 # Greedy
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
