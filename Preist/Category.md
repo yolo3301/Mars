@@ -127,6 +127,7 @@
 + [L396](https://leetcode.com/problems/rotate-function)
 + [L50](https://leetcode.com/problems/powx-n)
 + [L69](https://leetcode.com/problems/sqrtx)
++ [L168](https://leetcode.com/problems/excel-sheet-column-title/)
 
 # Pure Interesting
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
