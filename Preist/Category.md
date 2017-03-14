@@ -64,6 +64,7 @@
 + [L414](https://leetcode.com/problems/third-maximum-number) -- promote numbers, careful corner case
 + [L209](https://leetcode.com/problems/minimum-size-subarray-sum) -- moving window
 + [L229](https://leetcode.com/problems/majority-element-ii) -- majority problem
++ [L456](https://leetcode.com/problems/132-pattern) -- from right to left, use stack, find the max less than the current
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
