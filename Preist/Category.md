@@ -100,6 +100,7 @@
 + [L388](https://leetcode.com/problems/longest-absolute-file-path/)
 + [L385](https://leetcode.com/problems/mini-parser) -- parse char by char
 + [L227](https://leetcode.com/problems/basic-calculator-ii) -- use deque will be easier
++ [L402](https://leetcode.com/problems/remove-k-digits/) -- a lot of corner cases
 
 # HashMap/TreeMap
 + [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)
