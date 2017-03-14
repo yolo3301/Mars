@@ -37,3 +37,4 @@
 + **60** -- complexity
 + **456**
 + 402 -- lots of corner cases
++ *365* -- calculate GCD

@@ -72,7 +72,7 @@
 + ~~**456** (hard to understand, tricky implementation)~~
 + ~~*168* (special handle)~~
 + ~~402 (idea of using stack)~~
-+ 365 (really a math problem, GCD)
++ ~~365 (really a math problem, GCD)~~
 + 43 (big integer multiply)
 + 15 (classic 3SUM)
 + 210 (topology sort)
