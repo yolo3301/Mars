@@ -65,6 +65,7 @@
 + [L209](https://leetcode.com/problems/minimum-size-subarray-sum) -- moving window
 + [L229](https://leetcode.com/problems/majority-element-ii) -- majority problem
 + [L456](https://leetcode.com/problems/132-pattern) -- from right to left, use stack, find the max less than the current
++ [L15](https://leetcode.com/problems/3sum/)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
