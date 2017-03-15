@@ -40,3 +40,4 @@
 + *365* -- calculate GCD
 + *43* -- need to know the right way to calculate mutiply
 + *15* -- 3sum worth practice
++ **324** -- virtual index, 3-way partition
