@@ -130,6 +130,7 @@
 + [L69](https://leetcode.com/problems/sqrtx)
 + [L168](https://leetcode.com/problems/excel-sheet-column-title/)
 + [L365](https://leetcode.com/problems/water-and-jug-problem) -- greatest common divisor
++ [L43](https://leetcode.com/problems/multiply-strings/) -- need to know the other way to calculate mutiply
 
 # Pure Interesting
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
