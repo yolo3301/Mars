@@ -11,11 +11,11 @@ public class Solution {
         String val = "0";
         int shift = 0;
 
-        for (int a = num1.length() - 1; a >= 0 : a--) {
+        for (int a = num1.length() - 1; a >= 0; a--) {
             int v1 = num1.charAt(a) - '0';
             int carry = 0;
             StringBuilder sb = new StringBuilder();
-            for (int b = num2.length() - 1; b >= 0 : b--) {
+            for (int b = num2.length() - 1; b >= 0; b--) {
                 int v2 = num2.charAt(b) - '0';
                 int v3 = v1 * v2 + carry;
                 carry = v3 / 10;
