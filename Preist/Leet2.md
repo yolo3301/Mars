@@ -42,3 +42,4 @@
 + *15* -- 3sum worth practice
 + **324** -- virtual index, 3-way partition
 + *464*
++ **220** -- use bucket idea

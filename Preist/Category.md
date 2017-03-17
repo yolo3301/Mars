@@ -90,6 +90,10 @@
 + [L109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) -- use size
 + [L222](https://leetcode.com/problems/count-complete-tree-nodes) -- consider the heights of sub trees
 
+# BST
++ [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
++ [L220](https://leetcode.com/problems/contains-duplicate-iii/) -- better solution with bucket idea
+
 # Graph
 + [L399](https://leetcode.com/problems/evaluate-division/) -- construct map and search
 + [L207](https://leetcode.com/problems/course-schedule/) -- application of DFS, loop detection
@@ -109,7 +113,6 @@
 
 # HashMap/TreeMap
 + [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)
-+ [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
