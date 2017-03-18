@@ -82,7 +82,7 @@
 + ~~220 (bucket sort idea)~~
 + ~~130 (avoid stack overflow)~~
 + ~~307 (segment tree)~~
-+ 287 (interesting idea)
++ ~~287 (interesting idea)~~
 + 312 (DP, burst ballons)
 + 380/381 (statistics, getRandom)
 + 128 (interesting idea)
