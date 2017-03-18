@@ -89,6 +89,7 @@
 + [L331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) -- extra nodes, missing nodes?
 + [L109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) -- use size
 + [L222](https://leetcode.com/problems/count-complete-tree-nodes) -- consider the heights of sub trees
++ [L307](https://leetcode.com/problems/range-sum-query-mutable) -- binary tree as a segment tree
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
