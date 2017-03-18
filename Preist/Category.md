@@ -71,6 +71,7 @@
 + [L456](https://leetcode.com/problems/132-pattern) -- from right to left, use stack, find the max less than the current
 + [L15](https://leetcode.com/problems/3sum/)
 + [L54](https://leetcode.com/problems/spiral-matrix/) -- corner cases
++ [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
@@ -116,7 +117,8 @@
 + [L227](https://leetcode.com/problems/basic-calculator-ii) -- use deque will be easier
 + [L402](https://leetcode.com/problems/remove-k-digits/) -- a lot of corner cases
 
-# HashMap/TreeMap
+# HashMap
++ [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
 + [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)
 
 # Divide and Conquer

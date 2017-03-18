@@ -85,7 +85,7 @@
 + ~~287 (interesting idea)~~
 + ~~312 (DP, burst ballons)~~
 + ~~380/381 (statistics, getRandom)~~
-+ 128 (interesting idea)
++ ~~128 (interesting idea)~~
 + 42 (trapping water)
 + 407 (trapping water 2D)
 + 117 (populating next pointer in a tree)
