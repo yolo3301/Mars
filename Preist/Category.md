@@ -93,6 +93,7 @@
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
 + [L220](https://leetcode.com/problems/contains-duplicate-iii/) -- better solution with bucket idea
++ [L218](https://leetcode.com/problems/the-skyline-problem) -- sort, left have to come before right, use BST to find max height
 
 # Graph
 + [L399](https://leetcode.com/problems/evaluate-division/) -- construct map and search

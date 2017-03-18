@@ -43,3 +43,4 @@
 + **324** -- virtual index, 3-way partition
 + *464*
 + **220** -- use bucket idea
++ *218* -- what structure to use?
