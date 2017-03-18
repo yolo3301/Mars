@@ -47,3 +47,4 @@
 + *307* -- what is a segment tree?
 + 287 -- looks like an array problem, but it's a linked list problem
 + **312** -- think in the reverse order
++ *381* -- just to see if I can remember

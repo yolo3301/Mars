@@ -53,6 +53,7 @@
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
 + [L398](https://leetcode.com/problems/random-pick-index/) -- sampling, unknown size
++ [L381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) -- use list and index
 
 # Array
 + [L268](https://leetcode.com/problems/missing-number/) -- set negative to find, careful with corner case (=0)
