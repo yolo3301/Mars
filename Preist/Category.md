@@ -72,6 +72,7 @@
 + [L15](https://leetcode.com/problems/3sum/)
 + [L54](https://leetcode.com/problems/spiral-matrix/) -- corner cases
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
++ [L42](https://leetcode.com/problems/trapping-rain-water) -- trapping water
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
