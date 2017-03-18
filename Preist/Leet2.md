@@ -46,3 +46,4 @@
 + *218* -- what structure to use?
 + *307* -- what is a segment tree?
 + 287 -- looks like an array problem, but it's a linked list problem
++ **312** -- think in the reverse order
