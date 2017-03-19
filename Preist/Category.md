@@ -49,6 +49,7 @@
 + [L488](https://leetcode.com/problems/zuma-game/)
 + [L46](https://leetcode.com/problems/permutations/) -- list permutations, all distinct numbers
 + [L306](https://leetcode.com/problems/additive-number/) -- can improve performance by cutting off some cases
++ [L301](https://leetcode.com/problems/remove-invalid-parentheses) -- need to do it in reverse order again
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size

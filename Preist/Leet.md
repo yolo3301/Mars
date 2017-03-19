@@ -89,7 +89,7 @@
 + ~~42 (trapping water)~~
 + ~~407 (trapping water 2D)~~
 + ~~117 (populating next pointer in a tree)~~
-+ 301 (backtracking hard)
++ ~~301 (backtracking hard)~~
 + 315 (different ways to solve)
 + **363** (use of TreeSet, good example)
 + 330 (hard to think)
@@ -130,7 +130,7 @@
 + **126** (double ended BFS???)
 + **65** (edge cases and )
 + 449 (tree, wonder how I figured it out)
-+ 453 (tricky)
++ 453 (tricky)  
 + 462 (meeting in the middle)
 + 473
 + 474 (DP)
