@@ -87,7 +87,7 @@
 + ~~380/381 (statistics, getRandom)~~
 + ~~128 (interesting idea)~~
 + ~~42 (trapping water)~~
-+ 407 (trapping water 2D)
++ ~~407 (trapping water 2D)~~
 + 117 (populating next pointer in a tree)
 + 301 (backtracking hard)
 + 315 (different ways to solve)
