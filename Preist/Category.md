@@ -94,6 +94,7 @@
 + [L109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) -- use size
 + [L222](https://leetcode.com/problems/count-complete-tree-nodes) -- consider the heights of sub trees
 + [L307](https://leetcode.com/problems/range-sum-query-mutable) -- binary tree as a segment tree
++ [L117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) -- O(1) space to populate next pointer, use last level
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
