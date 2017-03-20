@@ -102,6 +102,7 @@
 + [L220](https://leetcode.com/problems/contains-duplicate-iii/) -- better solution with bucket idea
 + [L218](https://leetcode.com/problems/the-skyline-problem) -- sort, left have to come before right, use BST to find max height
 + [L315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) -- use a modified BST, stack won't work
++ [L363](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/) -- can be applied to 1D or 2D
 
 # Graph
 + [L399](https://leetcode.com/problems/evaluate-division/) -- construct map and search
