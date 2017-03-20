@@ -55,3 +55,4 @@
 + 315 -- BST modified
 + 363
 + *330* -- to see if remember the idea
++ **410** -- binary search, hard to think in the right way
