@@ -90,7 +90,7 @@
 + ~~407 (trapping water 2D)~~
 + ~~117 (populating next pointer in a tree)~~
 + ~~301 (backtracking hard)~~
-+ 315 (different ways to solve)
++ ~~315 (different ways to solve)~~
 + **363** (use of TreeSet, good example)
 + 330 (hard to think)
 + **410** (binary search)
