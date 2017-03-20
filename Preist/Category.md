@@ -157,3 +157,4 @@
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
 + [L386](https://leetcode.com/problems/lexicographical-numbers/) -- do it in order
 + [L287](https://leetcode.com/problems/find-the-duplicate-number) -- looks like a array problem, but it's a linked list problem
++ [L330](https://leetcode.com/problems/patching-array) -- extend missing board, some sub structure, if we can have 1-x, how to extend
