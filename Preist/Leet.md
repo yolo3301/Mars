@@ -94,7 +94,7 @@
 + ~~**363** (use of TreeSet, good example)~~
 + ~~330 (hard to think)~~
 + ~~**410** (binary search)~~
-+ *115* (DP)
++ ~~*115* (DP)~~
 + 403 (boundry problem)
 + 327 (there is more efficient solution)
 + *99* (learn tree mirror traversal)
