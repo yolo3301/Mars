@@ -159,6 +159,9 @@
 + [L365](https://leetcode.com/problems/water-and-jug-problem) -- greatest common divisor
 + [L43](https://leetcode.com/problems/multiply-strings/) -- need to know the other way to calculate mutiply
 
+# Data Structure Design
++ [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
+
 # Pure Interesting
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
 + [L386](https://leetcode.com/problems/lexicographical-numbers/) -- do it in order
