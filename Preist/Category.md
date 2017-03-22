@@ -10,6 +10,7 @@
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
 + [L324](https://leetcode.com/problems/wiggle-sort-ii/) -- virtual index, 3-way partition
++ [L164](https://leetcode.com/problems/maximum-gap) -- bucket sort
 
 # Search
 + [L81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) -- binary search in rotated array
