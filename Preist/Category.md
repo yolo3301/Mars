@@ -127,6 +127,7 @@
 + [L385](https://leetcode.com/problems/mini-parser) -- parse char by char
 + [L227](https://leetcode.com/problems/basic-calculator-ii) -- use deque will be easier
 + [L402](https://leetcode.com/problems/remove-k-digits/) -- a lot of corner cases
++ [L316](https://leetcode.com/problems/remove-duplicate-letters/) -- when meet a smaller number, remove bigger removables
 
 # HashMap
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
