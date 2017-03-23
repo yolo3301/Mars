@@ -164,6 +164,9 @@
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
 
+# Special Data Structure
++ [L57](https://leetcode.com/problems/insert-interval)
+
 # Pure Interesting
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
 + [L386](https://leetcode.com/problems/lexicographical-numbers/) -- do it in order
