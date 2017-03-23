@@ -105,7 +105,7 @@
 + ~~233 (too much math)~~
 + ~~57 (corner cases)~~
 + ~~45 (jump game)~~
-+ *85* (histogram problem)
++ ~~*85* (histogram problem)~~
 + 224 (calculator faster solution)
 + ~~218 (TreeMap, skyline)~~
 + 41 (do it with simpler code and corner cases)
