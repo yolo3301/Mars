@@ -79,6 +79,7 @@
 + [L54](https://leetcode.com/problems/spiral-matrix/) -- corner cases
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
 + [L42](https://leetcode.com/problems/trapping-rain-water) -- trapping water
++ [L45](https://leetcode.com/problems/jump-game-ii) -- keep a previous boarder and the current boarder
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)

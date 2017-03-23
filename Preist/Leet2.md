@@ -57,6 +57,7 @@
 + *330* -- to see if remember the idea
 + **410** -- binary search, hard to think in the right way
 + 403 -- probably still looking into the best solution
-+ 99 -- see if remeber morris traversal
++ 99 -- see if remember morris traversal
 + 316 -- stack
 + **282** -- BT, handle *
++ 45 -- see if remember
