@@ -102,7 +102,7 @@
 + ~~432 (why hashmap won't work!!!)~~
 + ~~316 (both recursive and iterative solution)~~
 + ~~282 (handle * decently)~~
-+ 233 (too much math)
++ ~~233 (too much math)~~
 + 57 (corner cases)
 + 45 (jump game)
 + *85* (histogram problem)
