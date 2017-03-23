@@ -59,3 +59,4 @@
 + 403 -- probably still looking into the best solution
 + 99 -- see if remeber morris traversal
 + 316 -- stack
++ **282** -- BT, handle *
