@@ -88,6 +88,7 @@
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
 + [L459](https://leetcode.com/problems/repeated-substring-pattern) -- variant of KMP
 + [L424](https://leetcode.com/problems/longest-repeating-character-replacement) -- moving window, how to make code short is subtle
++ [L224](https://leetcode.com/problems/basic-calculator/) -- recursive
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order

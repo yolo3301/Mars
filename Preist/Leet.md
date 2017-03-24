@@ -106,7 +106,7 @@
 + ~~57 (corner cases)~~
 + ~~45 (jump game)~~
 + ~~*85* (histogram problem)~~
-+ 224 (calculator faster solution)
++ ~~224 (calculator faster solution)~~
 + ~~218 (TreeMap, skyline)~~
 + 41 (do it with simpler code and corner cases)
 + 336 (kind of brute force)
