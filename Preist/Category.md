@@ -80,6 +80,7 @@
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
 + [L42](https://leetcode.com/problems/trapping-rain-water) -- trapping water
 + [L45](https://leetcode.com/problems/jump-game-ii) -- keep a previous boarder and the current boarder
++ [L41](https://leetcode.com/problems/first-missing-positive) -- partition first
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
