@@ -37,6 +37,7 @@
 + [L312](https://leetcode.com/problems/burst-balloons) -- O(n^3), think in the reverse order, which one burst last
 + [L115](https://leetcode.com/problems/distinct-subsequences) - M(i,j) = M(i-1, j) (+ M(i-1, j-1))
 + [L403](https://leetcode.com/problems/frog-jump) -- unusual DP
++ [L44](https://leetcode.com/problems/wildcard-matching) -- initialization
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
