@@ -115,7 +115,7 @@
 + ~~76 (there is more efficient way)~~
 + ~~391 (geometry problem)~~
 + ~~10/44 (the DP way)~~
-+ *295* (try shorter version)
++ ~~*295* (try shorter version)~~
 + 32 (stack, corner cases, there is a DP solution too)
 + 446 (how to arrange for loop properly)
 + *212* (use trie node along the search)
