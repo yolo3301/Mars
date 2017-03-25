@@ -112,8 +112,8 @@
 + ~~336 (kind of brute force)~~
 + ~~**466** (can't figure it out)~~
 + ~~321~~
-+ 76 (there is more efficient way)
-+ 391 (geometry problem)
++ ~~76 (there is more efficient way)~~
++ ~~391 (geometry problem)~~
 + ~~10~~/44 (the DP way)
 + *295* (try shorter version)
 + 32 (stack, corner cases, there is a DP solution too)

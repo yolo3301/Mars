@@ -66,3 +66,4 @@
 + *336* -- see if remember
 + **466** -- remain & loop
 + **321** -- choose i & k-i from both array, how to cal combine max?
++ *391* -- see if remember the idea

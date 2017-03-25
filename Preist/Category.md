@@ -92,6 +92,7 @@
 + [L424](https://leetcode.com/problems/longest-repeating-character-replacement) -- moving window, how to make code short is subtle
 + [L224](https://leetcode.com/problems/basic-calculator/) -- recursive
 + [L466](https://leetcode.com/problems/count-the-repetitions) -- remain & loop
++ [L76](https://leetcode.com/problems/minimum-window-substring/) -- moving window
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
@@ -180,3 +181,4 @@
 + [L287](https://leetcode.com/problems/find-the-duplicate-number) -- looks like a array problem, but it's a linked list problem
 + [L330](https://leetcode.com/problems/patching-array) -- extend missing board, some sub structure, if we can have 1-x, how to extend
 + [L233](https://leetcode.com/problems/number-of-digit-one) -- count by ten, hundred, thousand...
++ [L391](https://leetcode.com/problems/perfect-rectangle) -- 1. area size, 2. only 4 corner left
