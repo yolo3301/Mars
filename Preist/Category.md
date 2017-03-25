@@ -81,6 +81,7 @@
 + [L42](https://leetcode.com/problems/trapping-rain-water) -- trapping water
 + [L45](https://leetcode.com/problems/jump-game-ii) -- keep a previous boarder and the current boarder
 + [L41](https://leetcode.com/problems/first-missing-positive) -- partition first
++ [L321](https://leetcode.com/problems/create-maximum-number/) -- choose i & k-i from both array, how to cal combine max?
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
