@@ -15,6 +15,7 @@
 # Search
 + [L81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) -- binary search in rotated array
 + [L410](https://leetcode.com/problems/split-array-largest-sum) -- binary search which value space? max and sum
++ [L4](https://leetcode.com/problems/median-of-two-sorted-arrays)
 
 # Dynamic Programming
 + [L198](https://leetcode.com/problems/house-robber/) -- one dimension M(j)=max(M(j-1), M(j-2)+V[j])
