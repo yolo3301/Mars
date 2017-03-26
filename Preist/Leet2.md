@@ -69,3 +69,4 @@
 + *391* -- see if remember the idea
 + *446* -- always add the previous count, see if remember
 + **214**
++ **440** -- need to memorize the method

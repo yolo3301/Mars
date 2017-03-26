@@ -95,6 +95,7 @@
 + [L466](https://leetcode.com/problems/count-the-repetitions) -- remain & loop
 + [L76](https://leetcode.com/problems/minimum-window-substring/) -- moving window
 + [L214](https://leetcode.com/problems/shortest-palindrome) -- use KMP, think about how to it's used
++ [L30](https://leetcode.com/problems/substring-with-concatenation-of-all-words) -- moving window
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
@@ -188,3 +189,4 @@
 + [L330](https://leetcode.com/problems/patching-array) -- extend missing board, some sub structure, if we can have 1-x, how to extend
 + [L233](https://leetcode.com/problems/number-of-digit-one) -- count by ten, hundred, thousand...
 + [L391](https://leetcode.com/problems/perfect-rectangle) -- 1. area size, 2. only 4 corner left
++ [L440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) -- calculate steps
