@@ -94,6 +94,7 @@
 + [L224](https://leetcode.com/problems/basic-calculator/) -- recursive
 + [L466](https://leetcode.com/problems/count-the-repetitions) -- remain & loop
 + [L76](https://leetcode.com/problems/minimum-window-substring/) -- moving window
++ [L214](https://leetcode.com/problems/shortest-palindrome) -- use KMP, think about how to it's used
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
