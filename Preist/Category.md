@@ -179,6 +179,7 @@
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
++ [L460](https://leetcode.com/problems/lfu-cache/) -- use hashmap and linked list
 
 # Special Data Structure
 + [L57](https://leetcode.com/problems/insert-interval)
