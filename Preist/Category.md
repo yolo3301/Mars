@@ -148,6 +148,7 @@
 + [L274](https://leetcode.com/problems/h-index) -- how to do reversed index using an array (with assumption)
 + [L336](https://leetcode.com/problems/palindrome-pairs) -- better than O(n^2) using hashmap
 + [L446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)
++ [L149](https://leetcode.com/problems/max-points-on-a-line/) -- count overlap points
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
