@@ -97,6 +97,7 @@
 + [L76](https://leetcode.com/problems/minimum-window-substring/) -- moving window
 + [L214](https://leetcode.com/problems/shortest-palindrome) -- use KMP, think about how to it's used
 + [L30](https://leetcode.com/problems/substring-with-concatenation-of-all-words) -- moving window
++ [L68](https://leetcode.com/problems/text-justification/)
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
