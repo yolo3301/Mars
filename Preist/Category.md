@@ -98,6 +98,7 @@
 + [L214](https://leetcode.com/problems/shortest-palindrome) -- use KMP, think about how to it's used
 + [L30](https://leetcode.com/problems/substring-with-concatenation-of-all-words) -- moving window
 + [L68](https://leetcode.com/problems/text-justification/)
++ [L65](https://leetcode.com/problems/valid-number/) -- iterate one by one, record what have seen
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
