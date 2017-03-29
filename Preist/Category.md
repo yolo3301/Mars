@@ -198,3 +198,4 @@
 + [L391](https://leetcode.com/problems/perfect-rectangle) -- 1. area size, 2. only 4 corner left
 + [L440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) -- calculate steps
 + [L273](https://leetcode.com/problems/integer-to-english-words/) -- trim answer
++ [L453](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) -- reverse idea
