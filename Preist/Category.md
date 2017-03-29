@@ -39,6 +39,7 @@
 + [L115](https://leetcode.com/problems/distinct-subsequences) - M(i,j) = M(i-1, j) (+ M(i-1, j-1))
 + [L403](https://leetcode.com/problems/frog-jump) -- unusual DP
 + [L44](https://leetcode.com/problems/wildcard-matching) -- initialization
++ [L474](https://leetcode.com/problems/ones-and-zeroes) -- 2d pack problem but 2d array is sufficient, use previous results
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
