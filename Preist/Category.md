@@ -57,6 +57,7 @@
 + [L306](https://leetcode.com/problems/additive-number/) -- can improve performance by cutting off some cases
 + [L301](https://leetcode.com/problems/remove-invalid-parentheses) -- need to do it in reverse order again
 + [L282](https://leetcode.com/problems/expression-add-operators/) -- handle * is the key, can carry along the path
++ [L473](https://leetcode.com/problems/matchsticks-to-square) -- because the size is small
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
