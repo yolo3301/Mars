@@ -40,6 +40,7 @@
 + [L403](https://leetcode.com/problems/frog-jump) -- unusual DP
 + [L44](https://leetcode.com/problems/wildcard-matching) -- initialization
 + [L474](https://leetcode.com/problems/ones-and-zeroes) -- 2d pack problem but 2d array is sufficient, use previous results
++ [L494](https://leetcode.com/problems/target-sum/) -- a variant, 2*S(P) = target + S(P) + S(N)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
