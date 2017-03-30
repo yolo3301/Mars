@@ -59,6 +59,7 @@
 + [L301](https://leetcode.com/problems/remove-invalid-parentheses) -- need to do it in reverse order again
 + [L282](https://leetcode.com/problems/expression-add-operators/) -- handle * is the key, can carry along the path
 + [L473](https://leetcode.com/problems/matchsticks-to-square) -- because the size is small
++ [L491](https://leetcode.com/problems/increasing-subsequences/) -- can also be solved iteratively
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size

@@ -77,3 +77,4 @@
 + *449* -- see if remember
 + *462* -- see if remember
 + **474** -- how to simplify the 3d array
++ 491 -- do it iteratively
