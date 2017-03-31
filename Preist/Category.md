@@ -120,6 +120,7 @@
 + [L117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) -- O(1) space to populate next pointer, use last level
 + [L99](https://leetcode.com/problems/recover-binary-search-tree) -- morris traversal
 + [L449](https://leetcode.com/problems/serialize-and-deserialize-bst/) -- use min and max
++ [L501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) -- double traversal
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
