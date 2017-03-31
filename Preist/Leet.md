@@ -139,6 +139,6 @@
 + 483 (math)
 + ~~488 (BT)~~
 + ~~501 (Tree)~~
-+ 502 (greedy)
++ ~~502 (greedy)~~
 + 459 (variant of KMP)
 + 493

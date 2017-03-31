@@ -171,6 +171,7 @@
 + [L480](https://leetcode.com/problems/sliding-window-median/)
 + [L407](https://leetcode.com/problems/trapping-rain-water-ii) -- why is it different from 1D trapping water? why heap is useful?
 + [L295](https://leetcode.com/problems/find-median-from-data-stream) -- careful when resizing
++ [L502](https://leetcode.com/problems/ipo/) -- 2 heap
 
 # Trie
 + [L472](https://leetcode.com/problems/concatenated-words/) -- similar to word break
