@@ -82,3 +82,4 @@
 + **488** -- hard BT
 + *502* -- see if remember
 + *459* -- see if remember
++ *493* -- remember be careful about what

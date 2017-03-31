@@ -164,6 +164,7 @@
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
 + [L493](https://leetcode.com/problems/reverse-pairs/) -- do it along with merge sort
 + [L395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) -- not binary devide, so devide based on what?
++ [L493](https://leetcode.com/problems/reverse-pairs/) -- why add on the run won't work? 
 
 # Number Process
 + [L9](https://leetcode.com/problems/palindrome-number/) -- reverse a number
