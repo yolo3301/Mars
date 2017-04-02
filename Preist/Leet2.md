@@ -1,13 +1,13 @@
-+ *318*
-+ *337* -- almost right
-+ *331*
-+ *388* -- got right with slight worse performance
-+ *81* -- got right, but might as well practice again
-+ *365* -- calculate GCD
-+ *43* -- need to know the right way to calculate mutiply
-+ *15* -- 3sum worth practice
-+ *131* -- got right, but worth practicing
-+ *397* -- weird
++ ~~*318*~~
++ ~~*337* -- almost right~~
++ ~~*331*~~
++ ~~*388* -- got right with slight worse performance~~
++ ~~*81* -- got right, but might as well practice again~~
++ ~~*365* -- calculate GCD~~
++ ~~*43* -- need to know the right way to calculate mutiply~~
++ ~~*15* -- 3sum worth practice~~
++ ~~*131* -- got right, but worth practicing~~
++ ~~*397* -- weird~~
 + *310* -- know the idea but need to do it again with bfs to avoid overflow
 + *464*
 + *218* -- what structure to use?
