@@ -8,16 +8,16 @@
 + ~~*15* -- 3sum worth practice~~
 + ~~*131* -- got right, but worth practicing~~
 + ~~*397* -- weird~~
-+ *310* -- know the idea but need to do it again with bfs to avoid overflow
-+ *464*
-+ *218* -- what structure to use?
-+ *381* -- just to see if I can remember
-+ *128* -- to see if I can remember the idea
-+ *307* -- what is a segment tree?
-+ *330* -- to see if remember the idea
-+ *85* -- why remember a wrong way?
-+ *41*
-+ *336* -- see if remember
++ ~~*310* -- know the idea but need to do it again with bfs to avoid overflow~~
++ ~~*464*~~
++ ~~*218* -- what structure to use?~~
++ ~~*381* -- just to see if I can remember~~
++ ~~*128* -- to see if I can remember the idea~~
++ ~~*307* -- what is a segment tree?~~
++ ~~*330* -- to see if remember the idea~~
++ ~~*85* -- why remember a wrong way?~~
++ ~~*41*~~
++ ~~*336* -- see if remember~~
 + *4* -- worth practicing
 + *460* -- corner cases
 + *126* -- corner cases
