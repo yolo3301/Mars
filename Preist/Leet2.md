@@ -18,17 +18,17 @@
 + ~~*85* -- why remember a wrong way?~~
 + ~~*41*~~
 + ~~*336* -- see if remember~~
-+ *4* -- worth practicing
-+ *460* -- corner cases
-+ *126* -- corner cases
-+ *391* -- see if remember the idea
-+ *446* -- always add the previous count, see if remember
-+ *449* -- see if remember
-+ *462* -- see if remember
-+ *494* -- see if remember
-+ *502* -- see if remember
-+ *459* -- see if remember
-+ *493* -- remember be careful about what
++ ~~*4* -- worth practicing~~
++ ~~*460* -- corner cases~~
++ ~~*126* -- corner cases~~
++ ~~*391* -- see if remember the idea~~
++ ~~*446* -- always add the previous count, see if remember~~
++ ~~*449* -- see if remember~~
++ ~~*462* -- see if remember~~
++ ~~*494* -- see if remember~~
++ ~~*502* -- see if remember~~
++ ~~*459* -- see if remember~~
++ ~~*493* -- remember be careful about what~~
 
 ----
 

@@ -8,3 +8,6 @@
 + *128* -- record length
 + *330* -- really subtle, keep counting the missing number
 + *336* -- cut string to 2 parts
++ *494*
++ *493*
++ *446*
