@@ -13,4 +13,11 @@
 + *446*
 + *10* -- easy to remember wrong dp formula
 + *241* -- see if remember
-+ 357 -- see if remeber
++ 357 -- see if remember
++ *522* -- see if remember
+
+----
+
+# Should go over every couple of days
++ **440**
++ **324**
