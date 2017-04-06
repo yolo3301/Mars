@@ -15,6 +15,7 @@
 + *241* -- see if remember
 + 357 -- see if remember
 + *522* -- see if remember
++ *334* -- see if remember, like LIS problem
 
 ----
 
