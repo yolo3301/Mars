@@ -21,6 +21,11 @@
 
 ----
 
+# Should practice
++ 437 -- top down is better than bottom up
+
+----
+
 # Should go over every couple of days
 + **440**
 + **324**
