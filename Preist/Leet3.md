@@ -24,6 +24,7 @@
 
 # Should practice
 + 437 -- top down is better than bottom up
++ 395 -- use regex to split is more efficient
 
 ----
 
