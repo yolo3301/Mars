@@ -18,6 +18,7 @@
 + *334* -- see if remember, like LIS problem
 + ~~*386*~~
 + ~~*313*~~
++ ~~*413*~~
 
 ----
 
