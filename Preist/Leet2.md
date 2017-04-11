@@ -48,7 +48,7 @@
 + ~~390 -- can't remember sub structure~~
 + ~~279~~
 + ~~395 -- devide and conquer~~
-+ 376 -- dp
++ ~~376 -- dp~~
 + 274 -- reversed index count
 + 201 -- bit operation, consider the essense of AND
 + 414
