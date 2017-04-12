@@ -47,3 +47,4 @@
 # New
 + *523* -- running sum % k, see if remember
 + 525 -- running count diff, see if remember
++ *532* -- use one hash
