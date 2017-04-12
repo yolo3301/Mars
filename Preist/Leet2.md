@@ -53,7 +53,7 @@
 + ~~201 -- bit operation, consider the essense of AND~~
 + ~~414~~
 + ~~385 -- got it right with multiple retries, good practice~~
-+ 332
++ ~~332~~
 + 229 -- need to memorize the algorithm
 + 50
 + 402 -- lots of corner cases
