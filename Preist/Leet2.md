@@ -61,7 +61,7 @@
 + ~~315 -- BST modified~~
 + ~~363~~
 + ~~403 -- probably still looking into the best solution~~
-+ 99 -- see if remember morris traversal
++ ~~99 -- see if remember morris traversal~~
 + 316 -- stack
 + 45 -- see if remember
 + 65 -- one by one, record what have been seen
