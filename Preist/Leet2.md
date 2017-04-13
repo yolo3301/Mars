@@ -60,7 +60,7 @@
 + ~~287 -- looks like an array problem, but it's a linked list problem~~
 + ~~315 -- BST modified~~
 + ~~363~~
-+ 403 -- probably still looking into the best solution
++ ~~403 -- probably still looking into the best solution~~
 + 99 -- see if remember morris traversal
 + 316 -- stack
 + 45 -- see if remember
