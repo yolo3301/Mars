@@ -40,6 +40,7 @@
 + 316
 + 65 -- dot, e, num, num after e
 + 491 -- if go with iterative, be careful when to add and avoid duplicates
++ 207
 
 ----
 
