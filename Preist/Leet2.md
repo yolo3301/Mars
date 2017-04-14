@@ -65,7 +65,7 @@
 + ~~316 -- stack~~
 + ~~45 -- see if remember~~
 + ~~65 -- one by one, record what have been seen~~
-+ 491 -- do it iteratively
++ ~~491 -- do it iteratively~~
 
 ----
 
