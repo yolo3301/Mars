@@ -50,6 +50,7 @@
 + **309**
 + **390**
 + **287**
++ **421**
 
 ----
 
@@ -58,3 +59,4 @@
 + 525 -- running count diff, see if remember
 + *532* -- use one hash
 + *535* -- base 62 encode for tiny url
++ 539 -- better with bucket
