@@ -71,7 +71,7 @@
 
 + ~~**207** -- practice DFS, loop detection~~
 + ~~**421**~~
-+ **424** -- moving window, make code short is subtle
++ ~~**424** -- moving window, make code short is subtle~~
 + **222** -- consider the heights of the sub trees
 + **60** -- complexity
 + **456**
