@@ -76,7 +76,7 @@
 + ~~**60** -- complexity~~
 + ~~**456**~~
 + ~~**324** -- virtual index, 3-way partition~~
-+ **220** -- use bucket idea
++ ~~**220** -- use bucket idea~~
 + ~~**312** -- think in the reverse order~~
 + **407** -- think about it why it's different from 1D trapping water
 + **117** -- use last level
