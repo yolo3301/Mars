@@ -73,7 +73,7 @@
 + ~~**421**~~
 + ~~**424** -- moving window, make code short is subtle~~
 + ~~**222** -- consider the heights of the sub trees~~
-+ **60** -- complexity
++ ~~**60** -- complexity~~
 + **456**
 + **324** -- virtual index, 3-way partition
 + **220** -- use bucket idea
