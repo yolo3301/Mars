@@ -79,7 +79,7 @@
 + ~~**220** -- use bucket idea~~
 + ~~**312** -- think in the reverse order~~
 + ~~**407** -- think about it why it's different from 1D trapping water~~
-+ **117** -- use last level
++ ~~**117** -- use last level~~
 + **301**
 + **410** -- binary search, hard to think in the right way
 + **282** -- BT, handle *
