@@ -59,7 +59,8 @@
 + **421**
 + **456**
 + **117**
-+ **301**
++ **301** -- how to reduce duplicates is subtle
++ **410** -- binary search, validate
 
 ----
 

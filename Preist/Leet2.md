@@ -81,7 +81,7 @@
 + ~~**407** -- think about it why it's different from 1D trapping water~~
 + ~~**117** -- use last level~~
 + ~~**301**~~
-+ **410** -- binary search, hard to think in the right way
++ ~~**410** -- binary search, hard to think in the right way~~
 + **282** -- BT, handle *
 + **466** -- remain & loop
 + **321** -- choose i & k-i from both array, how to cal combine max?
