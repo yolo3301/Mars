@@ -86,6 +86,6 @@
 + ~~**466** -- remain & loop~~
 + ~~**321** -- choose i & k-i from both array, how to cal combine max?~~
 + ~~**214**~~
-+ **440** -- need to memorize the method
++ ~~**440** -- need to memorize the method~~
 + **474** -- how to simplify the 3d array
 + **488** -- hard BT
