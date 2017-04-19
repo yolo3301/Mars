@@ -1,70 +1,40 @@
 public class Solution {
-    public List<Integer> countSmaller(int[] nums) {
-        Integer[] res = new Integer[nums.length];
-        if (nums.length == 0) return new ArrayList<>();
-
-        MyBst bst = new MyBst();
-        for (int i = nums.length - 1; i >= 0; i--) {
-            res[i] = bst.getCnt(nums[i]);
-            bst.insert(nums[i]);
+    public int[] maxNumber(int[] nums1, int[] nums2, int k) {
+        int[] res = new int[k];
+        int len1 = nums1.length;
+        int len2 = nums2.length;
+        for (int i = Math.max(0, k-len2); i <= len1 && i <= k; i++) {
+            int[] cand = merge(singleMax(nums1, i), singleMax(nums2, k-i), k);
+            if (greater(cand, 0, res, 0)) res = cand;
         }
-
-        return Arrays.asList(res);
+        return res;
     }
 
-    public class Node {
-        public Node left, right;
-        public int key, cnt, rep;
-        public Node(int k) {
-            key = k;
-            cnt = 0;
-            rep = 1;
+    private boolean greater(int[] nums1, int i, int[] nums2, int j) {
+        while (i < nums1.length && j < nums2.length && nums1[i] == nums2[j]) {
+            i++;
+            j++;
         }
+
+        return j == nums2.length || (i < nums1.length && nums1[i] > nums2[j]);
     }
 
-    public class MyBst {
-        public Node root;
-        public void insert(int key) {
-            if (root == null) {
-                root = new Node(key);
-                return;
-            }
-
-            insert(root, key);
+    private int[] singleMax(int[] nums, int k) {
+        int[] res = new int[k];
+        for (int i = 0, j = 0; i < nums.length; i++) {
+            // it's res[j-1] because j is the next index to add
+            while (j > 0 && j + nums.length - i > k && res[j-1] < nums[i])
+                j--;
+            if (j < k) res[j++] = nums[i];
         }
+        return res;
+    }
 
-        private Node insert(Node node, int key) {
-            if (node == null) {
-                Node curr = new Node(key);
-                return curr;
-            }
-
-            if (node.key == key) {
-                node.rep++;
-                return node;
-            } else if (node.key > key) {
-                node.cnt++;
-                node.left = insert(node.left, key);
-            } else {
-                node.right = insert(node.right, key);
-            }
-
-            return node;
+    private int[] merge(int[] nums1, int[] nums2, int k) {
+        int[] res = new int[k];
+        for (int i = 0, j = 0, z = 0; i < k; i++) {
+            res[i] = greater(nums1, j, nums2, z) ? nums1[j++] : nums2[z++];
         }
-
-        public int getCnt(int key) {
-            return getCnt(root, key);
-        }
-
-        private int getCnt(Node node, int key) {
-            if (node == null) return 0;
-            if (node.key == key) return node.cnt;
-
-            if (node.key < key) {
-                return node.cnt + node.rep + getCnt(node.right, key);
-            } else {
-                return getCnt(node.left, key);
-            }
-        }
+        return res;
     }
 }
