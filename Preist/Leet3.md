@@ -61,6 +61,7 @@
 + **117**
 + **301** -- how to reduce duplicates is subtle
 + **410** -- binary search, validate
++ **488** -- shrink and try to remove every removable char
 
 ----
 
