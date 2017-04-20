@@ -66,6 +66,7 @@
 + **410** -- binary search, validate
 + **466** -- loop remain and cnt
 + **321**
++ **488** -- shrink and try to remove every removable char
 
 ----
 
