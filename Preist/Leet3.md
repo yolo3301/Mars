@@ -76,3 +76,4 @@
 + *532* -- use one hash
 + *535* -- base 62 encode for tiny url
 + 539 -- better with bucket
++ 542 -- dp, from up/left, then from down/right
