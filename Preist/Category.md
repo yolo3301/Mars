@@ -42,6 +42,8 @@
 + [L474](https://leetcode.com/problems/ones-and-zeroes) -- 2d pack problem but 2d array is sufficient, use previous results
 + [L494](https://leetcode.com/problems/target-sum/) -- a variant, 2*S(P) = target + S(P) + S(N)
 + [L514](https://leetcode.com/problems/freedom-trail/) -- move from multiple previous index
++ [L552](https://leetcode.com/problems/student-attendance-record-ii) -- don't think about A first
++ [L542](https://leetcode.com/problems/01-matrix/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
