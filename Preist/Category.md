@@ -52,6 +52,7 @@
 + [L452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 + [L475](https://leetcode.com/problems/heaters/)
 + [L502](https://leetcode.com/problems/ipo/) -- two heap
++ [L330](https://leetcode.com/problems/patching-array) -- extend missing board, some sub structure, if we can have 1-x, how to extend
 
 # Backtracking
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
@@ -203,7 +204,6 @@
 + [L423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) -- different chars can indicate different numbers
 + [L386](https://leetcode.com/problems/lexicographical-numbers/) -- do it in order
 + [L287](https://leetcode.com/problems/find-the-duplicate-number) -- looks like a array problem, but it's a linked list problem
-+ [L330](https://leetcode.com/problems/patching-array) -- extend missing board, some sub structure, if we can have 1-x, how to extend
 + [L233](https://leetcode.com/problems/number-of-digit-one) -- count by ten, hundred, thousand...
 + [L391](https://leetcode.com/problems/perfect-rectangle) -- 1. area size, 2. only 4 corner left
 + [L440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) -- calculate steps
