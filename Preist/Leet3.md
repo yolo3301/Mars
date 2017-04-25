@@ -8,11 +8,11 @@
 + ~~*128* -- record length~~
 + ~~*330* -- really subtle, keep counting the missing number~~
 + ~~*336* -- cut string to 2 parts~~
-+ *494*
-+ *493*
-+ *446*
-+ *10* -- easy to remember wrong dp formula
-+ *241* -- see if remember
++ ~~*494*~~
++ ~~*493*~~
++ ~~*446*~~
++ ~~*10* -- easy to remember wrong dp formula~~
++ ~~*241* -- see if remember~~
 + 357 -- see if remember
 + *522* -- see if remember
 + *334* -- see if remember, like LIS problem
