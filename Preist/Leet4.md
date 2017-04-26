@@ -11,3 +11,6 @@
 
 # Seems forgot
 + 475
+
+# Locked
++ 280 - O(n) way

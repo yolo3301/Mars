@@ -1,0 +1,28 @@
+func(int[] c) {
+    int[] cnt = new int[c.length+1];
+    for (int i : c) {
+        if (i >= c.length) cnt[c.length]++;
+        else cnt[i]++;
+    }
+
+    int sum = 0;
+    for (int i = c.length; i >= 0; i--) {
+        sum += cnt[i];
+        if (sum >= i) return i;
+    }
+
+    return 0;
+}
+
+// in sorted case
+func(int[] c, int s, int e) {
+    if (s > e) return;
+
+    int m = s + (e - s) / 2;
+    if (c[m] >= c.length - m) {
+        res = Math.max(res, c.length - m);
+        func(c, s, m-1);
+    } else {
+        func(c, m+1, e);
+    }
+}
