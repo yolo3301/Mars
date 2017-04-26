@@ -13,9 +13,11 @@
 + ~~*446*~~
 + ~~*10* -- easy to remember wrong dp formula~~
 + ~~*241* -- see if remember~~
-+ 357 -- see if remember
-+ *522* -- see if remember
-+ *334* -- see if remember, like LIS problem
++ ~~357 -- see if remember~~
++ ~~*522* -- see if remember~~
++ ~~*334* -- see if remember, like LIS problem~~
+
+
 + ~~*386*~~
 + ~~*313*~~
 + ~~*413*~~
@@ -24,7 +26,7 @@
 + ~~*414*~~
 + ~~*332*~~
 + ~~*50*~~
-+ *229* -- don't over complicate
++ ~~*229* -- don't over complicate~~ -
 + ~~*315*~~
 + ~~*363*~~
 + ~~*403*~~

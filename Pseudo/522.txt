@@ -1,0 +1,24 @@
+// duplicates won't be the answer
+
+Arrays.sort(strs, (a, b) -> {
+    return b.length() - a.length();
+});
+
+Set<String> prev = new HashSet<>();
+for (int i = 0; i < n; i++) {
+    if (i == n-1 || strs[i] != strs[i+1] && !set.contains(strs[i])) {
+        boolean flag = false;
+        for (String p : prev) {
+            flag |= isSubseq(p, strs[i]);
+            if (flag) break;
+        }
+
+        if (!flag) {
+            res = strs[i].length();
+            break;
+        }
+    }
+    set.add(strs[i]);
+}
+
+return res;
