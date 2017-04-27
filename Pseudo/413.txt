@@ -1,0 +1,16 @@
+public class Solution {
+    public int numberOfArithmeticSlices(int[] A) {
+        if (A.length < 3) return 0;
+        int prevDiff = 0, prevCnt = 0, res = 0;
+        for (int i = 1; i < A.length; i++) {
+            int diff = A[i] - A[i-1];
+            if (diff = prevDiff) {
+                res += prevCnt;
+                prevCnt++;
+            } else {
+                prevDiff = diff;
+                prevCnt = 1;
+            }
+        }
+    }
+}

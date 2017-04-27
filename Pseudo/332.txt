@@ -1,0 +1,35 @@
+public class Solution {
+    public List<String> findItinerary(String[][] tickets) {
+        Map<String, List<String>> dest = new HashMap<>();
+        for (String[] t : tickets) {
+            if (!dest.containsKey(t[0])) dest.put(new ArrayList<>());
+            dest.get(t[0]).add(t[1]);
+        }
+
+        List<String> res = null;
+        List<String> buf = new ArrayList<>();
+        buf.add("JFK");
+        dfs("JFK", dest, buf, res, tickets.length+1);
+
+        returrn res;
+    }
+
+    private void dfs(String loc, Map<String, List<String>> dest, List<String> buffer, List<Stirng> res, int target) {
+        if (buffer.size() == target) {
+            res = new ArrayList<>(buffer);
+            return;
+        }
+
+        int size = dest.get(loc).size();
+        for (int i = 0; i < size; i++) {
+            String next = dest.get(loc).get(i);
+            dest.get(loc).remove(i);
+            buffer.add(next);
+            dfs(next, dest, buffer, res, target);
+            buffer.remove(buffer.size() - 1);
+            dest.get(loc).add(i, next);
+
+            if (res != null) break;
+        }
+    }
+}

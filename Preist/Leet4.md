@@ -8,6 +8,8 @@
 + *357* -- almost right
 + 334 -- need to use null
 + *229* -- almost right
++ *386* -- almost right
++ *414* -- a corner case
 
 # Seems forgot
 + 475
