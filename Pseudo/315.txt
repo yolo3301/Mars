@@ -1,0 +1,67 @@
+public class Solution {
+    public List<Integer> countSmaller(int[] nums) {
+        Integer[] res = new Integer[nums.length];
+        MyBst bst = new MyBst();
+        for (int i = nums.length - 1; i >= 0; i--) {
+            res[i] = bst.getSmaller(nums[i]);
+            bst.insert(nums[i]);
+        }
+
+        return Arrays.asList(res);
+    }
+
+    public class MyBst {
+        public class Node {
+            public Node left, right;
+            public int val, smaller, cnt;
+            public Node(int v) {
+                this.val = v;
+            }
+        }
+
+        private Node root;
+        public MyBst() {
+            root = null;
+        }
+
+        public void insert(int v) {
+            if (root == null) {
+                root = new Node(v);
+            } else {
+                insert(root, v);
+            }
+        }
+
+        private Node insert(Node node, int v) {
+            if (node == null) {
+                return new Node(v);
+            }
+
+            if (node.val == v) {
+                node.cnt++;
+            } else if (node.val > v) {
+                node.smaller++;
+                node.left = insert(node.left, v);
+            } else {
+                node.right = insert(node.right, v);
+            }
+
+            return node;
+        }
+
+        public int getSmaller(int v) {
+            return getSmaller(root, v);
+        }
+
+        private int getSmaller(Node node, int v) {
+            if (node == null) return 0;
+            if (node.val == v) {
+                return node.smaller;
+            } else if (node.val < v) {
+                return node.smaller + node.cnt + getSmaller(node.right, v);
+            } else {
+                return getSmaller(node.left, v);
+            }
+        }
+    }
+}

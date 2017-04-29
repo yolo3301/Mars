@@ -1,0 +1,21 @@
+public class Solution {
+    public int trapRainWater(int[][] heightMap) {
+        PriorityQueue<int[]> heap = new PriorityQueue<>((a, b) -> {
+            return a[2] - b[2];
+        }); // int[3], 0 - x, 1 - y, 2 - height
+
+        // add edges to the heap
+
+        while (!heap.isEmpty()) {
+            int[] lowest = heap.remove();
+            for (4 directions) {
+                if (not visited) {
+                    res += Math.min(0, lowest height - neighbor height);
+                    heap.add(new int[]{x, y, Math.max(lowest height, neighbor height)});
+                }
+            }
+        }
+
+        return res;
+    }
+}
