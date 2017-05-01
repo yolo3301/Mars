@@ -41,7 +41,7 @@
 + ~~437 -- top down is better than bottom up~~
 + ~~395 -- use regex to split is more efficient~~
 + ~~385 -- stack~~
-+ 99
++ ~~99~~
 + 316
 + 65 -- dot, e, num, num after e
 + 491 -- if go with iterative, be careful when to add and avoid duplicates
