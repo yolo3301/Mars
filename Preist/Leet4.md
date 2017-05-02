@@ -15,6 +15,7 @@
 + *316*
 + *424* -- got right
 + 220 -- how many buckets we need? t+1
++ 60
 
 # Seems forgot
 + 475
@@ -23,3 +24,4 @@
 
 # Locked
 + 280 - O(n) way
++ 471 - DP

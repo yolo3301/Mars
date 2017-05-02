@@ -47,8 +47,8 @@
 + ~~491 -- if go with iterative, be careful when to add and avoid duplicates~~
 + ~~207~~
 + ~~424 -- see if remember~~
-+ 60 -- the whole process has sub structure
-+ 312
++ ~~60 -- the whole process has sub structure~~
++ ~~312~~
 + ~~220~~
 + 282
 + 214
