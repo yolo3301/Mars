@@ -14,6 +14,7 @@
 + 395 -- please remember
 + *316*
 + *424* -- got right
++ 220 -- how many buckets we need? t+1
 
 # Seems forgot
 + 475
