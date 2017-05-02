@@ -46,7 +46,7 @@
 + ~~65 -- dot, e, num, num after e~~
 + ~~491 -- if go with iterative, be careful when to add and avoid duplicates~~
 + ~~207~~
-+ 424 -- see if remember
++ ~~424 -- see if remember~~
 + 60 -- the whole process has sub structure
 + 312
 + 220
