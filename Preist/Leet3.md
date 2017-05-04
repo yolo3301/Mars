@@ -78,7 +78,7 @@
 + ~~*532* -- use one hash~~
 + ~~*535* -- base 62 encode for tiny url~~
 + ~~539 -- better with bucket~~
-+ 542 -- dp, from up/left, then from down/right
++ ~~542 -- dp, from up/left, then from down/right~~
 + **546**
 + 552 -- dp
 + 553 -- BT or math which is tricky, see if remember
