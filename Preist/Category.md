@@ -110,6 +110,7 @@
 + [L68](https://leetcode.com/problems/text-justification/)
 + [L65](https://leetcode.com/problems/valid-number/) -- iterate one by one, record what have seen
 + [L495](https://leetcode.com/problems/repeated-substring-pattern/) -- think about what's the pattern of such strings
++ [L340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) -- sliding window
 
 # Tree
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
