@@ -141,6 +141,7 @@
 
 # BIT (binary indexed tree)
 + [L307](https://leetcode.com/problems/range-sum-query-mutable)
++ [L308](https://leetcode.com/problems/range-sum-query-2d-mutable)
 
 # Graph
 + [L399](https://leetcode.com/problems/evaluate-division/) -- construct map and search
