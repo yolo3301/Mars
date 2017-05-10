@@ -18,6 +18,7 @@
 + [L4](https://leetcode.com/problems/median-of-two-sorted-arrays)
 
 # Dynamic Programming
++ [L418](https://leetcode.com/problems/sentence-screen-fitting/) -- pre cal next index and reps
 + [L198](https://leetcode.com/problems/house-robber/) -- one dimension M(j)=max(M(j-1), M(j-2)+V[j])
 + [L357](https://leetcode.com/problems/count-numbers-with-unique-digits/) -- tricky, M(j)=M(j-1) * available_numbers
 + [L416](https://leetcode.com/problems/partition-equal-subset-sum/) -- M(i, j)=M(i-1,j)||M(i-1, j-V[i]), where i is ith num & j is value
@@ -113,6 +114,7 @@
 + [L340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) -- sliding window
 
 # Tree
++ [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
 + [L94](https://leetcode.com/problems/binary-tree-inorder-traversal/) -- in order
 + [L145](https://leetcode.com/problems/binary-tree-postorder-traversal/) -- post order
 + [L337](https://leetcode.com/problems/house-robber-iii/) -- DP + Tree
