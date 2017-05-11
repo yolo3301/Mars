@@ -46,6 +46,7 @@
 + [L552](https://leetcode.com/problems/student-attendance-record-ii) -- don't think about A first
 + [L542](https://leetcode.com/problems/01-matrix/)
 + [L296](https://leetcode.com/problems/best-meeting-point)
++ [L361](https://leetcode.com/problems/bomb-enemy/) -- upper left, then bottom right
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
