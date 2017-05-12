@@ -115,6 +115,7 @@
 + [L65](https://leetcode.com/problems/valid-number/) -- iterate one by one, record what have seen
 + [L495](https://leetcode.com/problems/repeated-substring-pattern/) -- think about what's the pattern of such strings
 + [L340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) -- sliding window
++ [L271](https://leetcode.com/problems/encode-and-decode-strings)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
@@ -176,6 +177,7 @@
 + [L336](https://leetcode.com/problems/palindrome-pairs) -- better than O(n^2) using hashmap
 + [L446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)
 + [L149](https://leetcode.com/problems/max-points-on-a-line/) -- count overlap points
++ [L288](https://leetcode.com/problems/unique-word-abbreviation)
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
