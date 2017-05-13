@@ -156,6 +156,7 @@
 + [L130](https://leetcode.com/problems/surrounded-regions) -- be careful with BFS
 + [L126](https://leetcode.com/problems/word-ladder-ii) -- a lot of corner cases
 + [L317](https://leetcode.com/problems/shortest-distance-from-all-buildings) -- BFS
++ [L351](https://leetcode.com/problems/android-unlock-patterns) -- DFS
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
