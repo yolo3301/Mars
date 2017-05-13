@@ -197,6 +197,7 @@
 # Trie
 + [L472](https://leetcode.com/problems/concatenated-words/) -- similar to word break
 + [L212](https://leetcode.com/problems/word-search-ii/)
++ [L425](https://leetcode.com/problems/word-squares)
 
 # Math
 + [L492](https://leetcode.com/problems/construct-the-rectangle/)
