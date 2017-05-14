@@ -159,6 +159,7 @@
 + [L317](https://leetcode.com/problems/shortest-distance-from-all-buildings) -- BFS
 + [L351](https://leetcode.com/problems/android-unlock-patterns) -- DFS
 + [L305](https://leetcode.com/problems/number-of-islands-ii) -- union find
++ [L286](https://leetcode.com/problems/walls-and-gates) -- BFS
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
