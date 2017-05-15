@@ -98,9 +98,12 @@
 + [L41](https://leetcode.com/problems/first-missing-positive) -- partition first
 + [L321](https://leetcode.com/problems/create-maximum-number/) -- choose i & k-i from both array, how to cal combine max?
 + [L163](https://leetcode.com/problems/missing-ranges)
++ [L259](https://leetcode.com/problems/3sum-smaller/)
++ [L325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
++ [L311](https://leetcode.com/problems/sparse-matrix-multiplication)
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
@@ -134,6 +137,7 @@
 + [L99](https://leetcode.com/problems/recover-binary-search-tree) -- morris traversal
 + [L449](https://leetcode.com/problems/serialize-and-deserialize-bst/) -- use min and max
 + [L501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) -- double traversal
++ [L314](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
@@ -156,6 +160,9 @@
 + [L130](https://leetcode.com/problems/surrounded-regions) -- be careful with BFS
 + [L126](https://leetcode.com/problems/word-ladder-ii) -- a lot of corner cases
 + [L317](https://leetcode.com/problems/shortest-distance-from-all-buildings) -- BFS
++ [L351](https://leetcode.com/problems/android-unlock-patterns) -- DFS
++ [L305](https://leetcode.com/problems/number-of-islands-ii) -- union find
++ [L286](https://leetcode.com/problems/walls-and-gates) -- BFS
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
