@@ -99,6 +99,7 @@
 + [L321](https://leetcode.com/problems/create-maximum-number/) -- choose i & k-i from both array, how to cal combine max?
 + [L163](https://leetcode.com/problems/missing-ranges)
 + [L259](https://leetcode.com/problems/3sum-smaller/)
++ [L325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
