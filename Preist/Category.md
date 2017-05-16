@@ -11,6 +11,7 @@
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
 + [L324](https://leetcode.com/problems/wiggle-sort-ii/) -- virtual index, 3-way partition
 + [L164](https://leetcode.com/problems/maximum-gap) -- bucket sort
++ [L253](https://leetcode.com/problems/meeting-rooms-ii)
 
 # Search
 + [L81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) -- binary search in rotated array
@@ -100,6 +101,7 @@
 + [L163](https://leetcode.com/problems/missing-ranges)
 + [L259](https://leetcode.com/problems/3sum-smaller/)
 + [L325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)
++ [L158](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
@@ -163,6 +165,8 @@
 + [L351](https://leetcode.com/problems/android-unlock-patterns) -- DFS
 + [L305](https://leetcode.com/problems/number-of-islands-ii) -- union find
 + [L286](https://leetcode.com/problems/walls-and-gates) -- BFS
++ [L277](https://leetcode.com/problems/find-the-celebrity)
++ [L505](https://leetcode.com/problems/the-maze-ii/) -- shortest path
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
@@ -204,6 +208,7 @@
 # Trie
 + [L472](https://leetcode.com/problems/concatenated-words/) -- similar to word break
 + [L212](https://leetcode.com/problems/word-search-ii/)
++ [L425](https://leetcode.com/problems/word-squares)
 
 # Math
 + [L492](https://leetcode.com/problems/construct-the-rectangle/)
