@@ -48,6 +48,7 @@
 + [L542](https://leetcode.com/problems/01-matrix/)
 + [L296](https://leetcode.com/problems/best-meeting-point)
 + [L361](https://leetcode.com/problems/bomb-enemy/) -- upper left, then bottom right
++ [L161](https://leetcode.com/problems/one-edit-distance/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
@@ -102,6 +103,7 @@
 + [L259](https://leetcode.com/problems/3sum-smaller/)
 + [L325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)
 + [L158](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)
++ [L157](https://leetcode.com/problems/read-n-characters-given-read4)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
@@ -148,6 +150,7 @@
 + [L315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) -- use a modified BST, stack won't work
 + [L363](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/) -- can be applied to 1D or 2D
 + [L327](https://leetcode.com/problems/count-of-range-sum) -- a modified BST will be more efficient
++ [L285](https://leetcode.com/problems/inorder-successor-in-bst)
 
 # BIT (binary indexed tree)
 + [L307](https://leetcode.com/problems/range-sum-query-mutable)
