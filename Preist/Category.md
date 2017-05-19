@@ -143,6 +143,7 @@
 + [L449](https://leetcode.com/problems/serialize-and-deserialize-bst/) -- use min and max
 + [L501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) -- double traversal
 + [L314](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
++ [L572](https://leetcode.com/problems/subtree-of-another-tree) -- serialization
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
