@@ -174,6 +174,7 @@
 + [L277](https://leetcode.com/problems/find-the-celebrity)
 + [L505](https://leetcode.com/problems/the-maze-ii/) -- shortest path
 + [L269](https://leetcode.com/problems/alien-dictionary)
++ [L261](https://leetcode.com/problems/graph-valid-tree) -- union find
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
