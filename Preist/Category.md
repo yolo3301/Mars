@@ -74,6 +74,7 @@
 + [L491](https://leetcode.com/problems/increasing-subsequences/) -- can also be solved iteratively
 + [L488](https://leetcode.com/problems/zuma-game) -- hard BT, think about to remove one kind a time
 + [L553](https://leetcode.com/problems/optimal-division) -- divide by /
++ [L247](https://leetcode.com/problems/strobogrammatic-number-ii)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
