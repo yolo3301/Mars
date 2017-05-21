@@ -75,6 +75,7 @@
 + [L488](https://leetcode.com/problems/zuma-game) -- hard BT, think about to remove one kind a time
 + [L553](https://leetcode.com/problems/optimal-division) -- divide by /
 + [L247](https://leetcode.com/problems/strobogrammatic-number-ii)
++ [L320](https://leetcode.com/problems/generalized-abbreviation)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
