@@ -52,6 +52,7 @@
 + [L161](https://leetcode.com/problems/one-edit-distance/)
 + [L265](https://leetcode.com/problems/paint-house-ii/) -- keep min and 2nd min
 + [L471](https://leetcode.com/problems/encode-string-with-shortest-length)
++ [L294](https://leetcode.com/problems/flip-game-ii/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
