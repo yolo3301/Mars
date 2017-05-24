@@ -240,6 +240,7 @@
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
 + [L460](https://leetcode.com/problems/lfu-cache/) -- use hashmap and linked list
 + [L362](https://leetcode.com/problems/design-hit-counter)
++ [L359](https://leetcode.com/problems/logger-rate-limiter)
 
 # Special Data Structure
 + [L57](https://leetcode.com/problems/insert-interval)
