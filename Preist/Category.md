@@ -6,6 +6,7 @@
 + [L201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) -- consider the essense of AND operation
 + [L187](https://leetcode.com/problems/repeated-dna-sequences/) -- application of bit
 + [L397](https://leetcode.com/problems/integer-replacement) -- 3 is a special case
++ [L411](https://leetcode.com/problems/minimum-unique-word-abbreviation)
 
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
@@ -78,6 +79,7 @@
 + [L553](https://leetcode.com/problems/optimal-division) -- divide by /
 + [L247](https://leetcode.com/problems/strobogrammatic-number-ii)
 + [L320](https://leetcode.com/problems/generalized-abbreviation)
++ [L411](https://leetcode.com/problems/minimum-unique-word-abbreviation)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
