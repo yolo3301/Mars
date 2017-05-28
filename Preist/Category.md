@@ -206,6 +206,7 @@
 + [L446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)
 + [L149](https://leetcode.com/problems/max-points-on-a-line/) -- count overlap points
 + [L288](https://leetcode.com/problems/unique-word-abbreviation)
++ [L249](https://leetcode.com/problems/group-shifted-strings)
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
