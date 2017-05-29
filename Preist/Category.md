@@ -165,6 +165,7 @@
 + [L363](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/) -- can be applied to 1D or 2D
 + [L327](https://leetcode.com/problems/count-of-range-sum) -- a modified BST will be more efficient
 + [L285](https://leetcode.com/problems/inorder-successor-in-bst)
++ [L270](https://leetcode.com/problems/closest-binary-search-tree-value)
 
 # BIT (binary indexed tree)
 + [L307](https://leetcode.com/problems/range-sum-query-mutable)
