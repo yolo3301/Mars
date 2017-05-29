@@ -88,6 +88,9 @@
 + [L398](https://leetcode.com/problems/random-pick-index/) -- sampling, unknown size
 + [L381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) -- use list and index
 
+# Linked list
++ [L369](https://leetcode.com/problems/plus-one-linked-list/)
+
 # Array
 + [L268](https://leetcode.com/problems/missing-number/) -- set negative to find, careful with corner case (=0)
 + [L119](https://leetcode.com/problems/pascals-triangle-ii/) -- save space
