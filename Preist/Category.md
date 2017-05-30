@@ -117,6 +117,7 @@
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
 + [L311](https://leetcode.com/problems/sparse-matrix-multiplication)
++ [L422](https://leetcode.com/problems/valid-word-square)
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
