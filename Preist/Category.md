@@ -66,6 +66,7 @@
 + [L475](https://leetcode.com/problems/heaters/)
 + [L502](https://leetcode.com/problems/ipo/) -- two heap
 + [L330](https://leetcode.com/problems/patching-array) -- extend missing board, some sub structure, if we can have 1-x, how to extend
++ [L358](https://leetcode.com/problems/rearrange-string-k-distance-apart)
 
 # Backtracking
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
