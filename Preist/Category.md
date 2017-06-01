@@ -122,6 +122,7 @@
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
 + [L311](https://leetcode.com/problems/sparse-matrix-multiplication)
 + [L422](https://leetcode.com/problems/valid-word-square)
++ [L348](https://leetcode.com/problems/design-tic-tac-toe)
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
