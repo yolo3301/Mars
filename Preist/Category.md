@@ -193,6 +193,7 @@
 + [L269](https://leetcode.com/problems/alien-dictionary)
 + [L261](https://leetcode.com/problems/graph-valid-tree) -- union find
 + [L490](https://leetcode.com/problems/the-maze)
++ [L444](https://leetcode.com/problems/sequence-reconstruction) -- topology sort
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
