@@ -258,6 +258,7 @@
 + [L460](https://leetcode.com/problems/lfu-cache/) -- use hashmap and linked list
 + [L362](https://leetcode.com/problems/design-hit-counter)
 + [L359](https://leetcode.com/problems/logger-rate-limiter)
++ [L379](https://leetcode.com/problems/design-phone-directory)
 
 # Special Data Structure
 + [L57](https://leetcode.com/problems/insert-interval)
