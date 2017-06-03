@@ -19,6 +19,7 @@
 + [L81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) -- binary search in rotated array
 + [L410](https://leetcode.com/problems/split-array-largest-sum) -- binary search which value space? max and sum
 + [L4](https://leetcode.com/problems/median-of-two-sorted-arrays)
++ [L302](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)
 
 # Dynamic Programming
 + [L418](https://leetcode.com/problems/sentence-screen-fitting/) -- pre cal next index and reps
