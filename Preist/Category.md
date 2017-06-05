@@ -221,6 +221,7 @@
 + [L288](https://leetcode.com/problems/unique-word-abbreviation)
 + [L249](https://leetcode.com/problems/group-shifted-strings)
 + [L266](https://leetcode.com/problems/palindrome-permutation)
++ [L356](https://leetcode.com/problems/line-reflection)
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
