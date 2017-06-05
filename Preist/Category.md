@@ -210,6 +210,7 @@
 + [L32](https://leetcode.com/problems/longest-valid-parentheses/)
 + [L346](https://leetcode.com/problems/moving-average-from-data-stream)
 + [L465](https://leetcode.com/problems/optimal-account-balancing) -- DFS
++ [L353](https://leetcode.com/problems/design-snake-game/)
 
 # HashMap
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
