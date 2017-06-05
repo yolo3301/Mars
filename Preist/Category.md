@@ -141,6 +141,7 @@
 + [L271](https://leetcode.com/problems/encode-and-decode-strings)
 + [L159](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) -- sliding window
 + [L484](https://leetcode.com/problems/find-permutation)
++ [L408](https://leetcode.com/problems/valid-word-abbreviation/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
