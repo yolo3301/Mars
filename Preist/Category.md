@@ -56,6 +56,7 @@
 + [L471](https://leetcode.com/problems/encode-string-with-shortest-length)
 + [L294](https://leetcode.com/problems/flip-game-ii/)
 + [L276](https://leetcode.com/problems/paint-fence)
++ [L583](https://leetcode.com/problems/delete-operation-for-two-strings) -- longest common subseq
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
