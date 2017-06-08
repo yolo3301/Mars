@@ -124,6 +124,7 @@
 + [L581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)
 + [L560](https://leetcode.com/problems/subarray-sum-equals-k/)
 + [L370](https://leetcode.com/problems/range-addition)
++ [L487](https://leetcode.com/problems/max-consecutive-ones-ii)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
