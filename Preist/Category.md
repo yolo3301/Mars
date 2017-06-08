@@ -201,6 +201,7 @@
 + [L261](https://leetcode.com/problems/graph-valid-tree) -- union find
 + [L490](https://leetcode.com/problems/the-maze)
 + [L444](https://leetcode.com/problems/sequence-reconstruction) -- topology sort
++ [L323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
