@@ -132,6 +132,7 @@
 + [L422](https://leetcode.com/problems/valid-word-square)
 + [L348](https://leetcode.com/problems/design-tic-tac-toe)
 + [L531](https://leetcode.com/problems/lonely-pixel-i/)
++ [L533](https://leetcode.com/problems/lonely-pixel-ii)
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
