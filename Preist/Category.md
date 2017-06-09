@@ -131,6 +131,7 @@
 + [L311](https://leetcode.com/problems/sparse-matrix-multiplication)
 + [L422](https://leetcode.com/problems/valid-word-square)
 + [L348](https://leetcode.com/problems/design-tic-tac-toe)
++ [L531](https://leetcode.com/problems/lonely-pixel-i/)
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
