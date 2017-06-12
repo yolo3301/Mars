@@ -124,14 +124,24 @@
 + [L157](https://leetcode.com/problems/read-n-characters-given-read4)
 + [L581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)
 + [L560](https://leetcode.com/problems/subarray-sum-equals-k/)
+<<<<<<< HEAD
 + [L565](https://leetcode.com/problems/array-nesting/)
+=======
++ [L370](https://leetcode.com/problems/range-addition)
++ [L487](https://leetcode.com/problems/max-consecutive-ones-ii)
+>>>>>>> 396b7cab4ec781877aec5ce0af37807b2a68de5c
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
 + [L311](https://leetcode.com/problems/sparse-matrix-multiplication)
 + [L422](https://leetcode.com/problems/valid-word-square)
 + [L348](https://leetcode.com/problems/design-tic-tac-toe)
+<<<<<<< HEAD
 + [L566](https://leetcode.com/problems/reshape-the-matrix/)
+=======
++ [L531](https://leetcode.com/problems/lonely-pixel-i/)
++ [L533](https://leetcode.com/problems/lonely-pixel-ii)
+>>>>>>> 396b7cab4ec781877aec5ce0af37807b2a68de5c
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
@@ -150,7 +160,11 @@
 + [L159](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) -- sliding window
 + [L484](https://leetcode.com/problems/find-permutation)
 + [L408](https://leetcode.com/problems/valid-word-abbreviation/)
+<<<<<<< HEAD
 + [L567](https://leetcode.com/problems/permutation-in-string)
+=======
++ [L527](https://leetcode.com/problems/word-abbreviation)
+>>>>>>> 396b7cab4ec781877aec5ce0af37807b2a68de5c
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
@@ -207,6 +221,7 @@
 + [L261](https://leetcode.com/problems/graph-valid-tree) -- union find
 + [L490](https://leetcode.com/problems/the-maze)
 + [L444](https://leetcode.com/problems/sequence-reconstruction) -- topology sort
++ [L323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
