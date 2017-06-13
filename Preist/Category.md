@@ -180,6 +180,7 @@
 + [L572](https://leetcode.com/problems/subtree-of-another-tree) -- serialization
 + [L549](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)
 + [L545](https://leetcode.com/problems/boundary-of-binary-tree/)
++ [L582](https://leetcode.com/problems/kill-process)
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
