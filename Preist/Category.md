@@ -136,6 +136,7 @@
 + [L566](https://leetcode.com/problems/reshape-the-matrix/)
 + [L531](https://leetcode.com/problems/lonely-pixel-i/)
 + [L533](https://leetcode.com/problems/lonely-pixel-ii)
++ [L573](https://leetcode.com/problems/squirrel-simulation/)
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
