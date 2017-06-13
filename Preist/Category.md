@@ -59,6 +59,7 @@
 + [L583](https://leetcode.com/problems/delete-operation-for-two-strings) -- longest common subseq
 + [L562](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)
 + [L568](https://leetcode.com/problems/maximum-vacation-days)
++ [L576](https://leetcode.com/problems/out-of-boundary-paths/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
