@@ -283,6 +283,7 @@
 + [L362](https://leetcode.com/problems/design-hit-counter)
 + [L359](https://leetcode.com/problems/logger-rate-limiter)
 + [L379](https://leetcode.com/problems/design-phone-directory)
++ [L588](https://leetcode.com/problems/design-in-memory-file-system)
 
 # Special Data Structure
 + [L57](https://leetcode.com/problems/insert-interval)
