@@ -158,6 +158,7 @@
 + [L408](https://leetcode.com/problems/valid-word-abbreviation/)
 + [L567](https://leetcode.com/problems/permutation-in-string)
 + [L527](https://leetcode.com/problems/word-abbreviation)
++ [L555](https://leetcode.com/problems/split-concatenated-strings) -- brute force
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
