@@ -234,6 +234,7 @@
 + [L346](https://leetcode.com/problems/moving-average-from-data-stream)
 + [L465](https://leetcode.com/problems/optimal-account-balancing) -- DFS
 + [L353](https://leetcode.com/problems/design-snake-game/)
++ [L439](https://leetcode.com/problems/ternary-expression-parser)
 
 # HashMap
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
@@ -279,6 +280,7 @@
 + [L365](https://leetcode.com/problems/water-and-jug-problem) -- greatest common divisor
 + [L43](https://leetcode.com/problems/multiply-strings/) -- need to know the other way to calculate mutiply
 + [L360](https://leetcode.com/problems/sort-transformed-array)
++ [L593](https://leetcode.com/problems/valid-square)
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
