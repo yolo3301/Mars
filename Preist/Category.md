@@ -128,6 +128,7 @@
 + [L565](https://leetcode.com/problems/array-nesting/)
 + [L370](https://leetcode.com/problems/range-addition)
 + [L487](https://leetcode.com/problems/max-consecutive-ones-ii)
++ [L548](https://leetcode.com/problems/split-array-with-equal-sum)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
@@ -244,6 +245,7 @@
 + [L249](https://leetcode.com/problems/group-shifted-strings)
 + [L266](https://leetcode.com/problems/palindrome-permutation)
 + [L356](https://leetcode.com/problems/line-reflection)
++ [L594](https://leetcode.com/problems/longest-harmonious-subsequence)
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
