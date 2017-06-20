@@ -88,6 +88,7 @@
 + [L320](https://leetcode.com/problems/generalized-abbreviation)
 + [L411](https://leetcode.com/problems/minimum-unique-word-abbreviation)
 + [L544](https://leetcode.com/problems/output-contest-matches)
++ [L254](https://leetcode.com/problems/factor-combinations)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
