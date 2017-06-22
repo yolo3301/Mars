@@ -163,6 +163,7 @@
 + [L567](https://leetcode.com/problems/permutation-in-string)
 + [L527](https://leetcode.com/problems/word-abbreviation)
 + [L555](https://leetcode.com/problems/split-concatenated-strings) -- brute force
++ [L186](https://leetcode.com/problems/reverse-words-in-a-string-ii/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
