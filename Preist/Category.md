@@ -297,6 +297,7 @@
 + [L43](https://leetcode.com/problems/multiply-strings/) -- need to know the other way to calculate mutiply
 + [L360](https://leetcode.com/problems/sort-transformed-array)
 + [L593](https://leetcode.com/problems/valid-square)
++ [L335](https://leetcode.com/problems/self-crossing)
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
