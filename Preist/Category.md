@@ -92,6 +92,7 @@
 + [L254](https://leetcode.com/problems/factor-combinations)
 + [L140](https://leetcode.com/problems/word-break-ii)
 + [L248](https://leetcode.com/problems/strobogrammatic-number-iii)
++ [L267](https://leetcode.com/problems/palindrome-permutation-ii/)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
