@@ -91,6 +91,7 @@
 + [L544](https://leetcode.com/problems/output-contest-matches)
 + [L254](https://leetcode.com/problems/factor-combinations)
 + [L140](https://leetcode.com/problems/word-break-ii)
++ [L248](https://leetcode.com/problems/strobogrammatic-number-iii)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
