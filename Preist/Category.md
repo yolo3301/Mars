@@ -135,6 +135,9 @@
 + [L370](https://leetcode.com/problems/range-addition)
 + [L487](https://leetcode.com/problems/max-consecutive-ones-ii)
 + [L548](https://leetcode.com/problems/split-array-with-equal-sum)
++ [L243](https://leetcode.com/problems/shortest-word-distance)
++ [L244](https://leetcode.com/problems/shortest-word-distance-ii)
++ [L245](https://leetcode.com/problems/shortest-word-distance-iii)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
@@ -191,6 +194,7 @@
 + [L545](https://leetcode.com/problems/boundary-of-binary-tree/)
 + [L582](https://leetcode.com/problems/kill-process)
 + [L156](https://leetcode.com/problems/binary-tree-upside-down)
++ [L250](https://leetcode.com/problems/count-univalue-subtrees)
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
