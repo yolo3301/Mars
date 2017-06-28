@@ -300,6 +300,7 @@
 + [L360](https://leetcode.com/problems/sort-transformed-array)
 + [L593](https://leetcode.com/problems/valid-square)
 + [L335](https://leetcode.com/problems/self-crossing)
++ [L507](https://leetcode.com/problems/perfect-number)
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
