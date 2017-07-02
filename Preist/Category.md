@@ -201,6 +201,7 @@
 + [L156](https://leetcode.com/problems/binary-tree-upside-down)
 + [L250](https://leetcode.com/problems/count-univalue-subtrees)
 + [L366](https://leetcode.com/problems/find-leaves-of-binary-tree)
++ [L606](https://leetcode.com/problems/construct-string-from-binary-tree)
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
