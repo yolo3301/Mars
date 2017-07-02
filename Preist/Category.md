@@ -171,6 +171,7 @@
 + [L527](https://leetcode.com/problems/word-abbreviation)
 + [L555](https://leetcode.com/problems/split-concatenated-strings) -- brute force
 + [L186](https://leetcode.com/problems/reverse-words-in-a-string-ii/)
++ [L591](https://leetcode.com/problems/tag-validator) -- state machine
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
