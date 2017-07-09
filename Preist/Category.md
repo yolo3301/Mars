@@ -74,6 +74,7 @@
 + [L330](https://leetcode.com/problems/patching-array) -- extend missing board, some sub structure, if we can have 1-x, how to extend
 + [L358](https://leetcode.com/problems/rearrange-string-k-distance-apart)
 + [L605](https://leetcode.com/problems/can-place-flowers/)
++ [L621](https://leetcode.com/problems/task-scheduler)
 
 # Backtracking
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
