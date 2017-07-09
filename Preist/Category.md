@@ -61,6 +61,7 @@
 + [L568](https://leetcode.com/problems/maximum-vacation-days)
 + [L576](https://leetcode.com/problems/out-of-boundary-paths/)
 + [L256](https://leetcode.com/problems/paint-house)
++ [L600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
