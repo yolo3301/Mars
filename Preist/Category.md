@@ -316,6 +316,7 @@
 + [L335](https://leetcode.com/problems/self-crossing)
 + [L507](https://leetcode.com/problems/perfect-number)
 + [L592](https://leetcode.com/problems/fraction-addition-and-subtraction)
++ [L625](https://leetcode.com/problems/minimum-factorization)
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
