@@ -144,6 +144,7 @@
 + [L599](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
 + [L611](https://leetcode.com/problems/valid-triangle-number/) -- direction is important
 + [L624](https://leetcode.com/problems/maximum-distance-in-arrays)
++ [L628](https://leetcode.com/problems/maximum-product-of-three-numbers)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
