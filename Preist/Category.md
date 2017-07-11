@@ -319,6 +319,7 @@
 + [L507](https://leetcode.com/problems/perfect-number)
 + [L592](https://leetcode.com/problems/fraction-addition-and-subtraction)
 + [L625](https://leetcode.com/problems/minimum-factorization)
++ [L633](https://leetcode.com/problems/sum-of-square-numbers/)
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
