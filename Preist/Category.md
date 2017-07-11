@@ -77,6 +77,7 @@
 + [L358](https://leetcode.com/problems/rearrange-string-k-distance-apart)
 + [L605](https://leetcode.com/problems/can-place-flowers/)
 + [L621](https://leetcode.com/problems/task-scheduler)
++ [L630](https://leetcode.com/problems/course-schedule-iii)
 
 # Backtracking
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
