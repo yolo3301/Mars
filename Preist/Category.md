@@ -228,6 +228,7 @@
 + [L536](https://leetcode.com/problems/construct-binary-tree-from-string)
 + [L333](https://leetcode.com/problems/largest-bst-subtree/)
 + [L632](https://leetcode.com/problems/smallest-range/)
++ [L635](https://leetcode.com/problems/design-log-storage-system/)
 
 # BIT (binary indexed tree)
 + [L307](https://leetcode.com/problems/range-sum-query-mutable)
