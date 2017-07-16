@@ -272,6 +272,7 @@
 + [L353](https://leetcode.com/problems/design-snake-game/)
 + [L439](https://leetcode.com/problems/ternary-expression-parser)
 + [L339](https://leetcode.com/problems/nested-list-weight-sum)
++ [L636](https://leetcode.com/problems/exclusive-time-of-functions)
 
 # HashMap
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
