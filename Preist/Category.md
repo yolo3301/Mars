@@ -149,6 +149,7 @@
 + [L611](https://leetcode.com/problems/valid-triangle-number/) -- direction is important
 + [L624](https://leetcode.com/problems/maximum-distance-in-arrays)
 + [L628](https://leetcode.com/problems/maximum-product-of-three-numbers)
++ [L643](https://leetcode.com/problems/maximum-average-subarray-i)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
