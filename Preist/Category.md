@@ -187,6 +187,7 @@
 + [L604](https://leetcode.com/problems/design-compressed-string-iterator)
 + [L609](https://leetcode.com/problems/find-duplicate-file-in-system)
 + [L616](https://leetcode.com/problems/add-bold-tag-in-string/)
++ [L640](https://leetcode.com/problems/solve-the-equation/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
