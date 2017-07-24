@@ -20,6 +20,7 @@
 + [L410](https://leetcode.com/problems/split-array-largest-sum) -- binary search which value space? max and sum
 + [L4](https://leetcode.com/problems/median-of-two-sorted-arrays)
 + [L302](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)
++ [L644](https://leetcode.com/problems/maximum-average-subarray-ii/) -- binary search value space, max and min
 
 # Dynamic Programming
 + [L418](https://leetcode.com/problems/sentence-screen-fitting/) -- pre cal next index and reps
