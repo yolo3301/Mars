@@ -68,6 +68,7 @@
 + [L638](https://leetcode.com/problems/shopping-offers/)
 + [L639](https://leetcode.com/problems/decode-ways-ii/)
 + [L646](https://leetcode.com/problems/maximum-length-of-pair-chain/)
++ [L647](https://leetcode.com/problems/palindromic-substrings/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
