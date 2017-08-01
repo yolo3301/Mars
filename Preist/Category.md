@@ -194,6 +194,7 @@
 + [L609](https://leetcode.com/problems/find-duplicate-file-in-system)
 + [L616](https://leetcode.com/problems/add-bold-tag-in-string/)
 + [L640](https://leetcode.com/problems/solve-the-equation/)
++ [L5](https://leetcode.com/problems/longest-palindromic-substring/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
