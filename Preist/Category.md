@@ -21,6 +21,7 @@
 + [L4](https://leetcode.com/problems/median-of-two-sorted-arrays)
 + [L302](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)
 + [L644](https://leetcode.com/problems/maximum-average-subarray-ii/) -- binary search value space, max and min
++ [L540](https://leetcode.com/problems/single-element-in-a-sorted-array)
 
 # Dynamic Programming
 + [L418](https://leetcode.com/problems/sentence-screen-fitting/) -- pre cal next index and reps
