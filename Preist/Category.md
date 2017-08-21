@@ -158,6 +158,7 @@
 + [L628](https://leetcode.com/problems/maximum-product-of-three-numbers)
 + [L643](https://leetcode.com/problems/maximum-average-subarray-i)
 + [L645](https://leetcode.com/problems/set-mismatch)
++ [L658](https://leetcode.com/problems/find-k-closest-elements/)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
