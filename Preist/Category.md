@@ -226,6 +226,7 @@
 + [L617](https://leetcode.com/problems/merge-two-binary-trees)
 + [L623](https://leetcode.com/problems/add-one-row-to-tree)
 + [L652](https://leetcode.com/problems/find-duplicate-subtrees/)
++ [L654](https://leetcode.com/problems/maximum-binary-tree/)
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
