@@ -72,6 +72,7 @@
 + [L647](https://leetcode.com/problems/palindromic-substrings/)
 + [L650](https://leetcode.com/problems/2-keys-keyboard)
 + [L651](https://leetcode.com/problems/4-keys-keyboard)
++ [L664](https://leetcode.com/problems/strange-printer)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
