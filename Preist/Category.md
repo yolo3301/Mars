@@ -161,6 +161,7 @@
 + [L645](https://leetcode.com/problems/set-mismatch)
 + [L658](https://leetcode.com/problems/find-k-closest-elements/)
 + [L665](https://leetcode.com/problems/non-decreasing-array/)
++ [L667](https://leetcode.com/problems/beautiful-arrangement-ii)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
