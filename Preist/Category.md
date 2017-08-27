@@ -309,6 +309,7 @@
 + [L266](https://leetcode.com/problems/palindrome-permutation)
 + [L356](https://leetcode.com/problems/line-reflection)
 + [L594](https://leetcode.com/problems/longest-harmonious-subsequence)
++ [L666](https://leetcode.com/problems/path-sum-iv/)
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
