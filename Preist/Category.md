@@ -165,6 +165,7 @@
 + [L658](https://leetcode.com/problems/find-k-closest-elements/)
 + [L665](https://leetcode.com/problems/non-decreasing-array/)
 + [L667](https://leetcode.com/problems/beautiful-arrangement-ii)
++ [L517](https://leetcode.com/problems/super-washing-machines/)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
