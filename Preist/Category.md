@@ -359,6 +359,7 @@
 + [L625](https://leetcode.com/problems/minimum-factorization)
 + [L633](https://leetcode.com/problems/sum-of-square-numbers/)
 + [L372](https://leetcode.com/problems/super-pow/)
++ [L672](https://leetcode.com/problems/bulb-switcher-ii/)
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
