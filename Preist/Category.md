@@ -255,6 +255,7 @@
 + [L632](https://leetcode.com/problems/smallest-range/)
 + [L635](https://leetcode.com/problems/design-log-storage-system/)
 + [L653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
++ [L669](https://leetcode.com/problems/trim-a-binary-search-tree/)
 
 # BIT (binary indexed tree)
 + [L307](https://leetcode.com/problems/range-sum-query-mutable)
