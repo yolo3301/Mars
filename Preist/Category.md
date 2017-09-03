@@ -239,6 +239,7 @@
 + [L655](https://leetcode.com/problems/print-binary-tree/)
 + [L662](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 + [L663](https://leetcode.com/problems/equal-tree-partition/)
++ [L671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
