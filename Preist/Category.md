@@ -91,6 +91,7 @@
 + [L621](https://leetcode.com/problems/task-scheduler)
 + [L630](https://leetcode.com/problems/course-schedule-iii)
 + [L659](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
++ [L670](https://leetcode.com/problems/maximum-swap/)
 
 # Backtracking
 + [L473](https://leetcode.com/problems/matchsticks-to-square/)
