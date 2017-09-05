@@ -317,6 +317,7 @@
 + [L356](https://leetcode.com/problems/line-reflection)
 + [L594](https://leetcode.com/problems/longest-harmonious-subsequence)
 + [L666](https://leetcode.com/problems/path-sum-iv/)
++ [L631](https://leetcode.com/problems/design-excel-sum-formula)
 
 # Divide and Conquer
 + [L241](https://leetcode.com/problems/different-ways-to-add-parentheses/) -- calculate all possible values, divide by operators
