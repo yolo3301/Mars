@@ -286,6 +286,7 @@
 + [L323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
 + [L364](https://leetcode.com/problems/nested-list-weight-sum-ii) -- level order traverse, unweighted added multiple times
 + [L499](https://leetcode.com/problems/the-maze-iii)
++ [L675](https://leetcode.com/problems/cut-off-trees-for-golf-event)
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
