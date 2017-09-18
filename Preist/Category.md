@@ -115,6 +115,7 @@
 + [L248](https://leetcode.com/problems/strobogrammatic-number-iii)
 + [L267](https://leetcode.com/problems/palindrome-permutation-ii/)
 + [L291](https://leetcode.com/problems/word-pattern-ii)
++ [L678](https://leetcode.com/problems/valid-parenthesis-string/)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
