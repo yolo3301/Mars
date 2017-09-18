@@ -344,6 +344,7 @@
 + [L642](https://leetcode.com/problems/design-search-autocomplete-system)
 + [L648](https://leetcode.com/problems/replace-words)
 + [L676](https://leetcode.com/problems/implement-magic-dictionary)
++ [L677](https://leetcode.com/problems/map-sum-pairs/)
 
 # Math
 + [L492](https://leetcode.com/problems/construct-the-rectangle/)
