@@ -208,6 +208,7 @@
 + [L616](https://leetcode.com/problems/add-bold-tag-in-string/)
 + [L640](https://leetcode.com/problems/solve-the-equation/)
 + [L5](https://leetcode.com/problems/longest-palindromic-substring/)
++ [L680](https://leetcode.com/problems/valid-palindrome-ii/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
