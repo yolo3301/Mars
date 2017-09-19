@@ -370,6 +370,7 @@
 + [L672](https://leetcode.com/problems/bulb-switcher-ii/)
 + [L469](https://leetcode.com/problems/convex-polygon)
 + [L587](https://leetcode.com/problems/erect-the-fence/)
++ [L679](https://leetcode.com/problems/24-game)
 
 # Data Structure Design
 + [L432](https://leetcode.com/problems/all-oone-data-structure/) -- use hashmap and linked list
