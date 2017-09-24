@@ -170,6 +170,7 @@
 + [L665](https://leetcode.com/problems/non-decreasing-array/)
 + [L667](https://leetcode.com/problems/beautiful-arrangement-ii)
 + [L517](https://leetcode.com/problems/super-washing-machines/)
++ [L683](https://leetcode.com/problems/k-empty-slots/)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
