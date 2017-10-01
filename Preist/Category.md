@@ -210,6 +210,7 @@
 + [L640](https://leetcode.com/problems/solve-the-equation/)
 + [L5](https://leetcode.com/problems/longest-palindromic-substring/)
 + [L680](https://leetcode.com/problems/valid-palindrome-ii/)
++ [L686](https://leetcode.com/problems/repeated-string-match/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
