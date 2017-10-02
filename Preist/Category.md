@@ -77,6 +77,7 @@
 + [L656](https://leetcode.com/problems/coin-path)
 + [L673](https://leetcode.com/problems/number-of-longest-increasing-subsequence)
 + [L674](https://leetcode.com/problems/longest-continuous-increasing-subsequence)
++ [L688](https://leetcode.com/problems/knight-probability-in-chessboard/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
