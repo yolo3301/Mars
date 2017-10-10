@@ -297,6 +297,7 @@
 + [L499](https://leetcode.com/problems/the-maze-iii)
 + [L675](https://leetcode.com/problems/cut-off-trees-for-golf-event)
 + [L684](https://leetcode.com/problems/redundant-connection/)
++ [L695](https://leetcode.com/problems/max-area-of-island/)
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
