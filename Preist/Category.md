@@ -298,6 +298,7 @@
 + [L675](https://leetcode.com/problems/cut-off-trees-for-golf-event)
 + [L684](https://leetcode.com/problems/redundant-connection/)
 + [L695](https://leetcode.com/problems/max-area-of-island/)
++ [L694](https://leetcode.com/problems/number-of-distinct-islands/)
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
