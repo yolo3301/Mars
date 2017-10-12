@@ -14,6 +14,7 @@
 + [L164](https://leetcode.com/problems/maximum-gap) -- bucket sort
 + [L253](https://leetcode.com/problems/meeting-rooms-ii)
 + [L252](https://leetcode.com/problems/meeting-rooms)
++ [L692](https://leetcode.com/problems/top-k-frequent-words/)
 
 # Search
 + [L81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) -- binary search in rotated array
