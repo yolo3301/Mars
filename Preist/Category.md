@@ -175,6 +175,7 @@
 + [L667](https://leetcode.com/problems/beautiful-arrangement-ii)
 + [L517](https://leetcode.com/problems/super-washing-machines/)
 + [L683](https://leetcode.com/problems/k-empty-slots/)
++ [L696](https://leetcode.com/problems/count-binary-substrings/)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
