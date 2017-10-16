@@ -176,6 +176,7 @@
 + [L517](https://leetcode.com/problems/super-washing-machines/)
 + [L683](https://leetcode.com/problems/k-empty-slots/)
 + [L696](https://leetcode.com/problems/count-binary-substrings/)
++ [L697](https://leetcode.com/problems/degree-of-an-array/)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
