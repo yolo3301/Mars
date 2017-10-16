@@ -120,6 +120,7 @@
 + [L267](https://leetcode.com/problems/palindrome-permutation-ii/)
 + [L291](https://leetcode.com/problems/word-pattern-ii)
 + [L678](https://leetcode.com/problems/valid-parenthesis-string/)
++ [L698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 
 # Statistics
 + [L382](https://leetcode.com/problems/linked-list-random-node/) -- sampling, unknown size
