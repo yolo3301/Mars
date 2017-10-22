@@ -81,6 +81,7 @@
 + [L688](https://leetcode.com/problems/knight-probability-in-chessboard/)
 + [L689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
 + [L691](https://leetcode.com/problems/stickers-to-spell-word)
++ [L712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
