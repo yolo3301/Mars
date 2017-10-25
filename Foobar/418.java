@@ -1,27 +1,29 @@
 class Solution {
     public int wordsTyping(String[] sentence, int rows, int cols) {
-        int[] nextLineStart = new int[sentence.length];
-        int[] currLineReps = new int[sentence.length];
-        for (int i = 0; i < sentence.length; i++) {
-            int len = 0, j = i, r = 0;
-            while (len + sentence[j].length() <= cols) {
-                len += sentence[j++].length() + 1;
-                if (j == sentence.length) {
+        int len = sentence.length;
+        int[] curLineReps = new int[len];
+        int[] nextLineStart = new int[len];
+
+        for (int i = 0; i < len; i++) {
+            int curLen = 0, reps = 0, j = i;
+            while (curLen + sentence[j].length() <= cols) {
+                curLen += sentence[j++].length() + 1;
+                if (j == len) {
                     j = 0;
-                    r++;
+                    reps++;
                 }
             }
 
+            curLineReps[i] = reps;
             nextLineStart[i] = j;
-            currLineReps[i] = r;
         }
 
-        int res = 0, lineStart = 0;
-        for (int i = 0; i < rows; i++) {
-            res += currLineReps[lineStart];
-            lineStart = nextLineStart[lineStart];
+        int ret = 0;
+        for (int i = 0, j = 0; i < rows; i++) {
+            ret += curLineReps[j];
+            j = nextLineStart[j];
         }
 
-        return res;
+        return ret;
     }
 }
