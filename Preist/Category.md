@@ -7,6 +7,7 @@
 + [L187](https://leetcode.com/problems/repeated-dna-sequences/) -- application of bit
 + [L397](https://leetcode.com/problems/integer-replacement) -- 3 is a special case
 + [L411](https://leetcode.com/problems/minimum-unique-word-abbreviation)
++ [L137](https://leetcode.com/problems/single-number-ii/)
 
 # Sort
 + [L406](https://leetcode.com/problems/queue-reconstruction-by-height/) -- like insertion sort
