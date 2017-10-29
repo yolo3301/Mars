@@ -24,6 +24,7 @@
 + [L644](https://leetcode.com/problems/maximum-average-subarray-ii/) -- binary search value space, max and min
 + [L540](https://leetcode.com/problems/single-element-in-a-sorted-array)
 + [L668](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
++ [L719](https://leetcode.com/problems/find-k-th-smallest-pair-distance) -- binary search value space
 
 # Dynamic Programming
 + [L418](https://leetcode.com/problems/sentence-screen-fitting/) -- pre cal next index and reps
