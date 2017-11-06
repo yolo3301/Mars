@@ -194,6 +194,7 @@
 + [L531](https://leetcode.com/problems/lonely-pixel-i/)
 + [L533](https://leetcode.com/problems/lonely-pixel-ii)
 + [L573](https://leetcode.com/problems/squirrel-simulation/)
++ [L723](https://leetcode.com/problems/candy-crush/)
 
 # String
 + [L205](https://leetcode.com/problems/isomorphic-strings/) -- need 2 maps to check
