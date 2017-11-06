@@ -224,6 +224,7 @@
 + [L5](https://leetcode.com/problems/longest-palindromic-substring/)
 + [L680](https://leetcode.com/problems/valid-palindrome-ii/)
 + [L686](https://leetcode.com/problems/repeated-string-match/)
++ [L720](https://leetcode.com/problems/longest-word-in-dictionary/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
