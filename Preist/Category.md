@@ -86,6 +86,7 @@
 + [L712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)
 + [L714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 + [L718](https://leetcode.com/problems/maximum-length-of-repeated-subarray)
++ [L727](https://leetcode.com/problems/minimum-window-subsequence/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
