@@ -184,6 +184,7 @@
 + [L696](https://leetcode.com/problems/count-binary-substrings/)
 + [L697](https://leetcode.com/problems/degree-of-an-array/)
 + [L713](https://leetcode.com/problems/subarray-product-less-than-k/)
++ [L724](https://leetcode.com/problems/find-pivot-index/)
 
 # Matrix
 + [L498](https://leetcode.com/problems/diagonal-traverse/)
