@@ -134,6 +134,7 @@
 
 # Linked list
 + [L369](https://leetcode.com/problems/plus-one-linked-list/)
++ [L725](https://leetcode.com/problems/split-linked-list-in-parts)
 
 # Array
 + [L268](https://leetcode.com/problems/missing-number/) -- set negative to find, careful with corner case (=0)
