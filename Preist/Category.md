@@ -229,6 +229,7 @@
 + [L686](https://leetcode.com/problems/repeated-string-match/)
 + [L720](https://leetcode.com/problems/longest-word-in-dictionary/)
 + [L722](https://leetcode.com/problems/remove-comments/)
++ [L726](https://leetcode.com/problems/number-of-atoms/)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
