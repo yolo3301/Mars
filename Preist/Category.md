@@ -232,6 +232,7 @@
 + [L720](https://leetcode.com/problems/longest-word-in-dictionary/)
 + [L722](https://leetcode.com/problems/remove-comments/)
 + [L726](https://leetcode.com/problems/number-of-atoms/)
++ [L736](https://leetcode.com/problems/parse-lisp-expression)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
@@ -324,6 +325,7 @@
 + [L711](https://leetcode.com/problems/number-of-distinct-islands-ii/)
 + [L685](https://leetcode.com/problems/redundant-connection-ii/)
 + [L721](https://leetcode.com/problems/accounts-merge)
++ [L737](https://leetcode.com/problems/sentence-similarity-ii/)
 
 # Stack/Deque
 + [L394](https://leetcode.com/problems/decode-string/) -- push by chuck
@@ -344,6 +346,7 @@
 + [L339](https://leetcode.com/problems/nested-list-weight-sum)
 + [L636](https://leetcode.com/problems/exclusive-time-of-functions)
 + [L649](https://leetcode.com/problems/dota2-senate/)
++ [L735](https://leetcode.com/problems/asteroid-collision/)
 
 # HashMap
 + [L128](https://leetcode.com/problems/longest-consecutive-sequence) -- use of hash map, extend edges
