@@ -10,28 +10,28 @@
 
 public class BSTIterator {
 
-    private Stack<TreeNode> stack;
+    Stack<TreeNode> stack;
 
     public BSTIterator(TreeNode root) {
-        this.stack = new Stack<>();
-        this.pushStack(root);
+        stack = new Stack<>();
+        prepareSub(root);
     }
 
     /** @return whether we have a next smallest number */
     public boolean hasNext() {
-        return !this.stack.empty();
+        return !stack.empty();
     }
 
     /** @return the next smallest number */
     public int next() {
-        TreeNode ret = stack.pop();
-        this.pushStack(ret.right);
-        return ret.val;
+        TreeNode n = stack.pop();
+        prepareSub(n.right);
+        return n.val;
     }
 
-    private void pushStack(TreeNode node) {
+    private void prepareSub(TreeNode node) {
         while (node != null) {
-            this.stack.push(node);
+            stack.push(node);
             node = node.left;
         }
     }
@@ -42,4 +42,3 @@ public class BSTIterator {
  * BSTIterator i = new BSTIterator(root);
  * while (i.hasNext()) v[f()] = i.next();
  */
-
