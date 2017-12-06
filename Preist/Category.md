@@ -87,6 +87,7 @@
 + [L714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 + [L718](https://leetcode.com/problems/maximum-length-of-repeated-subarray)
 + [L727](https://leetcode.com/problems/minimum-window-subsequence/)
++ [L740](https://leetcode.com/problems/delete-and-earn/)
 
 # Sub-structure
 + [L390](https://leetcode.com/problems/elimination-game) -- sub-problem L(n) = 2 R(n/2) = 2 (1 + n/2 - L(n/2))
