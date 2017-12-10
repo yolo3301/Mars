@@ -1,45 +1,35 @@
 class Solution {
+    int index = 0;
     public int calculate(String s) {
-        Stack<String> stack = new Stack<>();
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == ' ') continue;
-            if (s.charAt(i) == '+') {
-                stack.push("+");
-            } else if (s.charAt(i) == '-') {
-                stack.push("-");
-            } else if (s.charAt(i) == '(') {
-                stack.push("(");
-            } else if (s.charAt(i) == ')') {
-                updateStack(stack);
+        int ret = 0;
+        int curMark = 1;
+        while (index < s.length()) {
+            if (s.charAt(index) == ')') {
+                index++;
+                break;
+            } else if (s.charAt(index) == '(') {
+                index++;
+                int val = calculate(s) * curMark;
+                curMark = 1;
+
+                ret += val;
+            } else if (!Character.isDigit(s.charAt(index))) {
+                if (s.charAt(index) == '+') curMark = 1;
+                else if (s.charAt(index) == '-') curMark = -1;
+                index++;
             } else {
-                int j = i;
-                while (j < s.length() && Character.isDigit(s.charAt(j))) {
+                int j = index;
+                while (j < s.length() && Character.isDigit(s.charAt(j)))
                     j++;
-                }
-                stack.push(s.substring(i, j));
-                i = j-1;
+
+                int val = Integer.valueOf(s.substring(index, j)) * curMark;
+                curMark = 1;
+
+                ret += val;
+                index = j;
             }
         }
 
-        updateStack(stack);
-
-        return Integer.valueOf(stack.pop());
-    }
-
-    private void updateStack(Stack<String> stack) {
-        int last = 0;
-        int val = 0;
-        while (!stack.empty()) {
-            String cur = stack.pop();
-            if (cur.equals("+")) continue;
-            else if (cur.equals("-")) val -= 2*last;
-            else if (cur.equals("(")) break;
-            else {
-                int curVal = Integer.valueOf(cur);
-                val += curVal;
-                last = curVal;
-            }
-        }
-        stack.push(Integer.toString(val));
+        return ret;
     }
 }
