@@ -272,6 +272,7 @@
 + [L671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 + [L687](https://leetcode.com/problems/longest-univalue-path)
 + [L690](https://leetcode.com/problems/employee-importance)
++ [L742](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)
 
 # BST
 + [L436](https://leetcode.com/problems/find-right-interval) -- use tree map
