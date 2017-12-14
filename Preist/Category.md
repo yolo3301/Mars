@@ -235,6 +235,7 @@
 + [L722](https://leetcode.com/problems/remove-comments/)
 + [L726](https://leetcode.com/problems/number-of-atoms/)
 + [L736](https://leetcode.com/problems/parse-lisp-expression)
++ [L745](https://leetcode.com/problems/prefix-and-suffix-search)
 
 # Tree
 + [L298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)
